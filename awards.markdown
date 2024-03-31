@@ -7,6 +7,6 @@ permalink: /books/
 
 ## Books
 
-[A Prairie as Wide as the Sea]([https://www.linktoinfoaboutaward.html](https://www.scholastic.ca/books/view/dear-canada-a-prairie-as-wide-as-the-sea)) (2024)
+[A Prairie as Wide as the Sea](https://www.scholastic.ca/books/view/dear-canada-a-prairie-as-wide-as-the-sea) (2024)
 
 
