@@ -47,5 +47,75 @@ nav_order: 2
 
 [source](https://en.wikipedia.org/wiki/General_store)
 
+<p>Gopher</p>
+<img src="images/A Prairie as Wide as the Sea Reference/gopher.jpeg">
+<p>"Prairie dogs are herbivorous burrowing ground squirrels native to the grasslands of North America. There are five recognized species of prairie dog: black-tailed, white-tailed, Gunnison's, Utah, and Mexican prairie dogs."</p>
 
+[source](https://en.wikipedia.org/wiki/Prairie_dog)
+
+<p>Grain Elevator</p>
+<img src="images/A Prairie as Wide as the Sea Reference/grain elevator.jpg">
+<p>A grain elevator is a facility designed to stockpile or store grain. In the grain trade, the term "grain elevator" also describes a tower containing a bucket elevator or a pneumatic conveyor, which scoops up grain from a lower level and deposits it in a silo or other storage facility.</p>
+
+[source](https://en.wikipedia.org/wiki/Grain_elevator)
+
+<p>Gramophone</p>
+<img src="images/A Prairie as Wide as the Sea Reference/gramophone.jpg">
+<p>"A phonograph, later called a gramophone (as a trademark since 1887, as a generic name in the UK since 1910), and since the 1940s a record player, or more recently a turntable,[a] is a device for the mechanical and analogue reproduction of recorded[b] sound."</p>
+
+[source](https://en.wikipedia.org/wiki/Phonograph)
+
+<p>Jack Horner Tart</p>
+<img src="images/A Prairie as Wide as the Sea Reference/jack horner tart.jpg">
+<p>A plum tart named after an English nursery rhyme. "Little Jack Horner" is a popular English nursery rhyme with the Roud Folk Song Index number 13027. First mentioned in the 18th century, it was early associated with acts of opportunism, particularly in politics." </p>
+
+[source](https://en.wikipedia.org/wiki/Little_Jack_Horner)
+
+<p>Livery Stable</p>
+<img src="images/A Prairie as Wide as the Sea Reference/livery stable.jpg">
+<p>"A livery yard, livery stable or boarding stable, is a stable where horse owners pay a weekly or monthly fee to keep their horses. A livery or boarding yard is not usually a riding school and the horses are not normally for hire."</p>
+
+[source](https://en.wikipedia.org/wiki/Livery_yard)
+
+<p>Milkman</p>
+<img src="images/A Prairie as Wide as the Sea Reference/milkman.jpg">
+<p>"Milk delivery is a delivery service dedicated to supplying milk, typically in bottles or cartons, to customers' homes. This service is performed by a milkman, milkwoman, or milk deliverer. (In contrast, a cowman or milkmaid tends to cows.) The delivery route is a milk route or milk run."</p>
+
+[source](https://en.wikipedia.org/wiki/Milk_delivery)
+
+<p>Muskeg</p>
+<img src="images/A Prairie as Wide as the Sea Reference/muskeg.JPG">
+<p>"Muskeg is a peat-forming ecosystem found in several northern climates, most commonly in Arctic and boreal areas. Muskeg is approximately synonymous with bog or peatland, and is a standard term in Western Canada and Alaska."</p>
+
+[source](https://en.wikipedia.org/wiki/Muskeg)
+
+<p>Saskatoon Berries</p>
+<img src="images/A Prairie as Wide as the Sea Reference/saskatoon berries.jpg">
+<p>"Amelanchier alnifolia, the saskatoon berry, Pacific serviceberry, western serviceberry, western shadbush, or western juneberry, is a shrub native to North America. It is a member of the rose family, and bears an edible berry-like fruit."</p>
+
+[source](https://en.wikipedia.org/wiki/Amelanchier_alnifolia)
+
+<p>Saskatoon Pie</p>
+<img src="images/A Prairie as Wide as the Sea Reference/saskatoon pie.jpg">
+<p>"Saskatoon berry pie is a type of pie with a saskatoon berry filling. The pie originated in the Prairies region of Canada and is often served with vanilla ice cream as a dessert. The primary ingredients of saskatoon berry pie include saskatoon berries, pie crust, sugar, cornstarch or flour, butter and lemon zest/juice. The pie is sometimes made with blueberries as a saskatoon berry substitute."</p>
+
+[source](https://en.wikipedia.org/wiki/Saskatoon_berry_pie#cite_note-1)
+
+<p>Scones</p>
+<img src="images/A Prairie as Wide as the Sea Reference/scones.jpg">
+<p>"A scone is a traditional British baked good, popular in the United Kingdom and Ireland. It is usually made of either wheat flour or oatmeal, with baking powder as a leavening agent, and baked on sheet pans."</p>
+
+[source](https://en.wikipedia.org/wiki/Scone)
+
+<p>Sod House</p>
+<img src="images/A Prairie as Wide as the Sea Reference/sod house.jpg">
+<p>"The sod house or soddy was an often used alternative to the log cabin during frontier settlement of the Great Plains of Canada and the United States in the 1800s and early 1900s. Primarily used at first for animal shelters, corrals, and fences, if the prairie lacked standard building materials such as wood or stone, sod from thickly-rooted prairie grass was abundant, free, and could be used for house construction. Prairie grass has a much thicker, tougher root structure than a modern lawn."</p>
+
+[source](https://en.wikipedia.org/wiki/Sod_house)
+
+<p>Toboggan</p>
+<img src="images/A Prairie as Wide as the Sea Reference/toboggan.jpg">
+<p>"A toboggan is a simple sled traditionally used by children. It is also a traditional form of transport used by the Innu and Cree of northern Canada."</p>
+
+[source](https://en.wikipedia.org/wiki/Toboggan) 
 
