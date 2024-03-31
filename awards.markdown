@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Awards & Honours
+title: Reference
 nav_order: 4
-permalink: /awards/
+permalink: /reference/
 ---
 
 ## Awards
