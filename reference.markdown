@@ -28,7 +28,7 @@ a:active {
   text-decoration: underline;
 }
 .collapsible {
-  background-color:mediumSeaGreen;
+  background-color:darkSeaGreen;
   color: white;
   cursor: pointer;
   padding: 18px;
