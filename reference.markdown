@@ -39,7 +39,7 @@ a:active {
   font-size: 15px;
 }
 .active, .collapsible:hover {
-  background-color: #555;
+  background-color:mediumSageGreen;
 }
 .content {
   padding: 0 18px;
