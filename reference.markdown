@@ -1,3 +1,4 @@
+<html>
 ---
 layout: page
 title: Reference
@@ -49,7 +50,7 @@ a:active {
 }
 </style>
 </head>
-
+<body>
 <button type="button" class="collapsible">Open Collapsible</button>
 <div class="content">
  <h6>B</h6> 
@@ -82,16 +83,16 @@ a:active {
 </div>
 
 <script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
+ var coll = document.getElementsByClassName("collapsible");
+ var i;
 
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
+ for (i = 0; i < coll.length; i++) {
+   coll[i].addEventListener("click", function() {
+     this.classList.toggle("active");
+     var content = this.nextElementSibling;
+     if (content.style.display === "block") {
       content.style.display = "none";
-    } else {
+    }  else {
       content.style.display = "block";
     }
   });
@@ -211,4 +212,5 @@ for (i = 0; i < coll.length; i++) {
 <p>"A toboggan is a simple sled traditionally used by children. It is also a traditional form of transport used by the Innu and Cree of northern Canada."</p>
 
 [source](https://en.wikipedia.org/wiki/Toboggan) 
-
+</body>
+</html>
