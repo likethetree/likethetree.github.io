@@ -4,6 +4,7 @@ title: Reference
 permalink: /reference/
 nav_order: 2
 ---
+<head>
 <style>
  a:link {
   color: lavender;
@@ -26,6 +27,7 @@ a:active {
   text-decoration: underline;
 }
 </style>
+</head>
 
 <h6>B</h6> 
 <p style="font-size:75%;"><a href="#bobbed-hair">Bobbed Hair</a></p>
