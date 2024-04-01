@@ -26,13 +26,7 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-</style>
-</head>
-
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.collapsible {
+ .collapsible {
   background-color: #777;
   color: white;
   cursor: pointer;
@@ -43,11 +37,9 @@ a:active {
   outline: none;
   font-size: 15px;
 }
-
 .active, .collapsible:hover {
   background-color: #555;
 }
-
 .content {
   padding: 0 18px;
   display: none;
@@ -57,39 +49,38 @@ a:active {
 </style>
 </head>
 
-<button type="button" class="collapsible">Index</button>
-<div class="content">
-  <div>
-   <h6>B</h6> 
-   <p style="font-size:75%;"><a href="#bobbed-hair">Bobbed Hair</a></p>
-   <p style="font-size:75%;"> <a href="#butter-churn">Butter Churn</a></p>
-   <h6>C</h6> 
-   <p style="font-size:75%;"><a href="#cadbury-chocolate">Cadbury Chocolate</a></p>
-   <p style="font-size:75%;"><a href="#colonist-car">Colonist Car</a></p>
-   <h6>D</h6> 
-   <p style="font-size:75%;"><a href="#deck-quoits">Deck Quoits</a></p>
-   <h6>F</h6> 
-   <p style="font-size:75%;"><a href="#fountain-pen">Fountain Pen</a></p>
-   <h6>G</h6> 
-   <p style="font-size:75%;"><a href="#general-store">General Store</a></p>
-   <p style="font-size:75%;"><a href="#gopher">Gopher</a></p>
-   <p style="font-size:75%;"><a href="#grain-elevator">Grain Elevator</a></p>
-   <p style="font-size:75%;"><a href="#gramophone">Gramophone</a></p>
-   <h6>J</h6> 
-   <p style="font-size:75%;"><a href="#jack-horner-tart">Jack Horner Tart</a></p>
-   <h6>L</h6> 
-   <p style="font-size:75%;"><a href="#livery-stable">Livery Stable</a></p>
-   <h6>M</h6> 
-   <p style="font-size:75%;"><a href="#milkman">Milkman</a></p>
-   <p style="font-size:75%;"><a href="#muskeg">Muskeg</a></p>
-   <h6>S</h6> 
-   <p style="font-size:75%;"><a href="#saskatoon-berries">Saskatoon Berries</a></p>
-   <p style="font-size:75%;"><a href="#saskatoon-pie">Saskatoon Pie</a></p>
-   <h6>T</h6>
-   <p style="font-size:75%;"><a href="#toboggan">Toboggan</a></p>
-  </div>
- 
-  <script>
+<button type="button" class="collapsible">Open Index</button>
+ <div class="content">
+<h6>B</h6> 
+<p style="font-size:75%;"><a href="#bobbed-hair">Bobbed Hair</a></p>
+<p style="font-size:75%;"> <a href="#butter-churn">Butter Churn</a></p>
+<h6>C</h6> 
+<p style="font-size:75%;"><a href="#cadbury-chocolate">Cadbury Chocolate</a></p>
+<p style="font-size:75%;"><a href="#colonist-car">Colonist Car</a></p>
+<h6>D</h6> 
+<p style="font-size:75%;"><a href="#deck-quoits">Deck Quoits</a></p>
+<h6>F</h6> 
+<p style="font-size:75%;"><a href="#fountain-pen">Fountain Pen</a></p>
+<h6>G</h6> 
+<p style="font-size:75%;"><a href="#general-store">General Store</a></p>
+<p style="font-size:75%;"><a href="#gopher">Gopher</a></p>
+<p style="font-size:75%;"><a href="#grain-elevator">Grain Elevator</a></p>
+<p style="font-size:75%;"><a href="#gramophone">Gramophone</a></p>
+<h6>J</h6> 
+<p style="font-size:75%;"><a href="#jack-horner-tart">Jack Horner Tart</a></p>
+<h6>L</h6> 
+<p style="font-size:75%;"><a href="#livery-stable">Livery Stable</a></p>
+<h6>M</h6> 
+<p style="font-size:75%;"><a href="#milkman">Milkman</a></p>
+<p style="font-size:75%;"><a href="#muskeg">Muskeg</a></p>
+<h6>S</h6> 
+<p style="font-size:75%;"><a href="#saskatoon-berries">Saskatoon Berries</a></p>
+<p style="font-size:75%;"><a href="#saskatoon-pie">Saskatoon Pie</a></p>
+<h6>T</h6>
+<p style="font-size:75%;"><a href="#toboggan">Toboggan</a></p>
+</div>
+
+<script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
