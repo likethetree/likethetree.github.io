@@ -49,7 +49,7 @@ a:active {
 </style>
 </head>
 
-<button type="button" class="collapsible">Open Index</button>
+<button type="button" class="collapsible">Index</button>
  <div class="content">
   <h6>B</h6> 
   <p style="font-size:75%;"><a href="#bobbed-hair">Bobbed Hair</a></p>
