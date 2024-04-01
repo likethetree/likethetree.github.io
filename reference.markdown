@@ -4,6 +4,29 @@ title: Reference
 permalink: /reference/
 nav_order: 2
 ---
+<style>
+ a:link {
+  color: lavender;
+  background-color: transparent;
+  text-decoration: none;
+}
+  a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+
 <h6>B</h6> 
 <p style="font-size:75%;"><a href="#bobbed-hair">Bobbed Hair</a></p>
 <p style="font-size:75%;"> <a href="#butter-churn">Butter Churn</a></p>
