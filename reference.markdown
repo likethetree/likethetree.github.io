@@ -7,12 +7,12 @@ nav_order: 2
 <head>
 <style>
  a:link {
-  color: black;
+  color: purple;
   background-color: transparent;
   text-decoration: none;
 }
   a:visited {
-  color: purple;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
