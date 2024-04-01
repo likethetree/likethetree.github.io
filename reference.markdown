@@ -4,7 +4,7 @@ title: Reference
 permalink: /reference/
 nav_order: 2
 ---
-<h6>B</h6> <a href="#bobbed-hair">Bobbed Hair</a> - <a href="#butter-churn">Butter Churn</a>
+<h6>B</h6> <p style="font-size:75%;"> <a href="#bobbed-hair">Bobbed Hair</a> </p> - <a href="#butter-churn">Butter Churn</a>
 <h6>C</h6> <a href="#cadbury-chocolate">Cadbury Chocolate</a> - <a href="#colonist-car">Colonist Car</a>
 <h6>D</h6> <a href="#deck-quoits">Deck Quoits</a>
 <h6>F</h6> <a href="#fountain-pen">Fountain Pen</a>
