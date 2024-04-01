@@ -4,25 +4,25 @@ title: Reference
 permalink: /reference/
 nav_order: 2
 ---
-<h2>B</h2>
+<h4>B</h4>
 <a href="#bobbed-hair">Bobbed Hair</a> - <a href="#butter-churn">Butter Churn</a>
-<h2>C</h2> 
+<h4>C</h4> 
 <a href="#cadbury-chocolate">Cadbury Chocolate</a> - <a href="#colonist-car">Colonist Car</a>
-<h2>D</h2>
+<h4>D</h4>
 <a href="#deck-quoits">Deck Quoits</a>
-<h2>F</h2>
+<h4>F</h4>
 <a href="#fountain-pen">Fountain Pen</a>
-<h2>G</h2>
+<h4>G</h4>
 <a href="#general-store">General Store</a> - <a href="#gopher">Gopher</a> - <a href="#grain-elevator">Grain Elevator</a> - <a href="#gramophone">Gramophone</a>
-<h2>J</h2>
+<h4>J</h4>
 <a href="#jack-horner-tart">Jack Horner Tart</a>
-<h2>L</h2>
+<h4>L</h4>
 <a href="#livery-stable">Livery Stable</a>
-<h2>M</h2>
+<h4>M</h4>
 <a href="#milkman">Milkman</a> - <a href="#muskeg">Muskeg</a>
-<h2>S</h2>
+<h4>S</h4>
 <a href="#saskatoon-berries">Saskatoon Berries</a> - <a href="#saskatoon-pie">Saskatoon Pie</a>
-<h2>T</h2>
+<h4>T</h4>
 <a href="#toboggan">Toboggan</a>
 
 <h2><a id="bobbed-hair">Bobbed Hair</a></h2>
