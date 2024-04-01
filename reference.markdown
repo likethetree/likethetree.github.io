@@ -15,7 +15,7 @@ nav_order: 2
 <h6>S</h6> <a href="#saskatoon-berries">Saskatoon Berries</a> - <a href="#saskatoon-pie">Saskatoon Pie</a>
 <h6>T</h6> <a href="#toboggan">Toboggan</a>
 
-<a id="bobbed-hair"></a> <h2>Bobbed Hair</h2> 
+<h2>Bobbed Hair</h2> <a id="bobbed-hair"></a> 
 <img src="/images/bob.jpg" alt="1920s Bob Hair Style"> 
 <p>"A bob cut, also known as a bob, is a short to medium length haircut, in which the hair is typically cut straight around the head at approximately jaw level, and no longer than shoulder-length, often with a fringe at the front. The standard bob cut exposes the back of the neck and keeps all of the hair well above the shoulders."</p>
 
