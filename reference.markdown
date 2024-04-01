@@ -51,7 +51,7 @@ a:active {
 
 <button type="button" class="collapsible">Open Index</button>
  <div class="content">
-  <h6>B</h6> 
+  <p><h6>B</h6> 
   <p style="font-size:75%;"><a href="#bobbed-hair">Bobbed Hair</a></p>
   <p style="font-size:75%;"> <a href="#butter-churn">Butter Churn</a></p>
   <h6>C</h6> 
