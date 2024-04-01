@@ -31,9 +31,9 @@ permalink: /books/
 
 <body>
   
-[Dear Canada Series](https://www.scholastic.ca/dearcanada/books/)
+<a href="https://www.scholastic.ca/dearcanada/books/">Dear Canada Series (Scholastic Canada)</a>
+<a href="https://www.scholastic.ca/dearcanada/books/prairie.htm">A Prairie as Wide as the Sea (2001)</a>
 
-[A Prairie as Wide as the Sea](https://www.scholastic.ca/dearcanada/books/prairie.htm)(2001)
 </body>
 
 
