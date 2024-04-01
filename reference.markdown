@@ -206,7 +206,7 @@ a:active {
 
 <a href="https://en.wikipedia.org/wiki/Sod_house">Source</a>
 
-</a><h2>Toboggan</h2><a id="toboggan"></a> 
+<a><h2>Toboggan</h2><a id="toboggan"></a> 
 <img src="/images/toboggan.jpg" alt="Toboggan in Use">
 <p>"A toboggan is a simple sled traditionally used by children. It is also a traditional form of transport used by the Innu and Cree of northern Canada."</p>
 
