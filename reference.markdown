@@ -1,4 +1,3 @@
-<html>
 ---
 layout: page
 title: Reference
@@ -213,4 +212,3 @@ a:active {
 
 [source](https://en.wikipedia.org/wiki/Toboggan) 
 </body>
-</html>
