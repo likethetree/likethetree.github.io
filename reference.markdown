@@ -4,16 +4,33 @@ title: Reference
 permalink: /reference/
 nav_order: 2
 ---
-<h6>B</h6> <p style="font-size:75%;"> <a href="#bobbed-hair">Bobbed Hair</a> </p> - <a href="#butter-churn">Butter Churn</a>
-<h6>C</h6> <a href="#cadbury-chocolate">Cadbury Chocolate</a> - <a href="#colonist-car">Colonist Car</a>
-<h6>D</h6> <a href="#deck-quoits">Deck Quoits</a>
-<h6>F</h6> <a href="#fountain-pen">Fountain Pen</a>
-<h6>G</h6> <a href="#general-store">General Store</a> - <a href="#gopher">Gopher</a> - <a href="#grain-elevator">Grain Elevator</a> - <a href="#gramophone">Gramophone</a>
-<h6>J</h6> <a href="#jack-horner-tart">Jack Horner Tart</a>
-<h6>L</h6> <a href="#livery-stable">Livery Stable</a>
-<h6>M</h6> <a href="#milkman">Milkman</a> - <a href="#muskeg">Muskeg</a>
-<h6>S</h6> <a href="#saskatoon-berries">Saskatoon Berries</a> - <a href="#saskatoon-pie">Saskatoon Pie</a>
-<h6>T</h6> <a href="#toboggan">Toboggan</a>
+<h6>B</h6> 
+<p style="font-size:75%;"><a href="#bobbed-hair">Bobbed Hair</a></p>
+<p style="font-size:75%;"> <a href="#butter-churn">Butter Churn</a></p>
+<h6>C</h6> 
+<p style="font-size:75%;"><a href="#cadbury-chocolate">Cadbury Chocolate</a></p>
+<p style="font-size:75%;"><a href="#colonist-car">Colonist Car</a></p>
+<h6>D</h6> 
+<p style="font-size:75%;"><a href="#deck-quoits">Deck Quoits</a></p>
+<h6>F</h6> 
+<p style="font-size:75%;"><a href="#fountain-pen">Fountain Pen</a></p>
+<h6>G</h6> 
+<p style="font-size:75%;"><a href="#general-store">General Store</a></p>
+<p style="font-size:75%;"><a href="#gopher">Gopher</a></p>
+<p style="font-size:75%;"><a href="#grain-elevator">Grain Elevator</a></p>
+<p style="font-size:75%;"><a href="#gramophone">Gramophone</a></p>
+<h6>J</h6> 
+<p style="font-size:75%;"><a href="#jack-horner-tart">Jack Horner Tart</a></p>
+<h6>L</h6> 
+<p style="font-size:75%;"><a href="#livery-stable">Livery Stable</a></p>
+<h6>M</h6> 
+<p style="font-size:75%;"><a href="#milkman">Milkman</a></p>
+<p style="font-size:75%;"><a href="#muskeg">Muskeg</a></p>
+<h6>S</h6> 
+<p style="font-size:75%;"><a href="#saskatoon-berries">Saskatoon Berries</a></p>
+<p style="font-size:75%;"><a href="#saskatoon-pie">Saskatoon Pie</a></p>
+<h6>T</h6>
+<p style="font-size:75%;"><a href="#toboggan">Toboggan</a></p>
 
 <h2>Bobbed Hair</h2><a id="bobbed-hair"></a> 
 <img src="/images/bob.jpg" alt="1920s Bob Hair Style"> 
