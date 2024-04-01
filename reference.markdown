@@ -59,7 +59,7 @@ a:active {
 
 <button type="button" class="collapsible">Index</button>
 <div class="content">
-  <body>
+  <div>
    <h6>B</h6> 
    <p style="font-size:75%;"><a href="#bobbed-hair">Bobbed Hair</a></p>
    <p style="font-size:75%;"> <a href="#butter-churn">Butter Churn</a></p>
@@ -87,7 +87,7 @@ a:active {
    <p style="font-size:75%;"><a href="#saskatoon-pie">Saskatoon Pie</a></p>
    <h6>T</h6>
    <p style="font-size:75%;"><a href="#toboggan">Toboggan</a></p>
-  </body>
+  </div>
 
 <h2>Bobbed Hair</h2><a id="bobbed-hair"></a> 
 <img src="/images/bob.jpg" alt="1920s Bob Hair Style"> 
