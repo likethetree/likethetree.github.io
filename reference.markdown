@@ -5,19 +5,19 @@ permalink: /reference/
 nav_order: 2
 ---
 <h2>Bobbed Hair</h2>
-<img src="images/A Prairie as Wide as the Sea Reference/bob.jpg" alt="1920s Bob Hair Style" style="max-width: 100%;"> 
+<img style="float: left; padding-right: 20px" src="images/A Prairie as Wide as the Sea Reference/bob.jpg" alt="1920s Bob Hair Style"> 
 <p>"A bob cut, also known as a bob, is a short to medium length haircut, in which the hair is typically cut straight around the head at approximately jaw level, and no longer than shoulder-length, often with a fringe at the front. The standard bob cut exposes the back of the neck and keeps all of the hair well above the shoulders."</p>
 
 [source]("https://en.wikipedia.org/wiki/Bob_cut")
 
 <h2>Butter Churn</h2>
-<img src="images/A Prairie as Wide as the Sea Reference/butter churn.webp" alt="1920s Butter Churn"> 
+<img style="float: left; padding-right: 20px" src="images/A Prairie as Wide as the Sea Reference/butter churn.webp" alt="1920s Butter Churn"> 
 <p>"A butter churn is a device used to convert cream into butter, a process known as churning. This is done through a mechanical process, frequently via a pole inserted through the lid of the churn, or via a crank used to turn a rotating device inside the churn."</p>
 
 [source](https://en.wikipedia.org/wiki/Butter_churn)
 
 <h2>Cadbury Chocolate</h2>
-<img src="images/A Prairie as Wide as the Sea Reference/cadbury chocolate.png" alt="1920s Cadbury Chocolate Bar Wrapper">
+<img style="float: left; padding-right: 20px" src="images/A Prairie as Wide as the Sea Reference/cadbury chocolate.png" alt="1920s Cadbury Chocolate Bar Wrapper">
 <p>"Cadbury Dairy Milk is a British brand of milk chocolate manufactured by Cadbury. It was introduced in the United Kingdom in June 1905 and now consists of a number of products. Every product in the Dairy Milk line is made with exclusively milk chocolate. In 1928, Cadbury's introduced the "glass and a half" slogan to accompany the Dairy Milk chocolate bar, to advertise the bar's higher milk content."</p>
 
 [source](https://en.wikipedia.org/wiki/Cadbury_Dairy_Milk) 
