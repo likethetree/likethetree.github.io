@@ -7,7 +7,7 @@ nav_order: 2
 <head>
 <style>
  a:link {
-  color: lavender;
+  color: purple;
   background-color: transparent;
   text-decoration: none;
 }
@@ -17,7 +17,7 @@ nav_order: 2
   text-decoration: none;
 }
 a:hover {
-  color: purple;
+  color: blue;
   background-color: transparent;
   text-decoration: underline;
 }
