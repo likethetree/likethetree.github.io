@@ -4,28 +4,18 @@ title: Reference
 permalink: /reference/
 nav_order: 2
 ---
-<h4>B</h4>
-<a href="#bobbed-hair">Bobbed Hair</a> - <a href="#butter-churn">Butter Churn</a>
-<h4>C</h4> 
-<a href="#cadbury-chocolate">Cadbury Chocolate</a> - <a href="#colonist-car">Colonist Car</a>
-<h4>D</h4>
-<a href="#deck-quoits">Deck Quoits</a>
-<h4>F</h4>
-<a href="#fountain-pen">Fountain Pen</a>
-<h4>G</h4>
-<a href="#general-store">General Store</a> - <a href="#gopher">Gopher</a> - <a href="#grain-elevator">Grain Elevator</a> - <a href="#gramophone">Gramophone</a>
-<h4>J</h4>
-<a href="#jack-horner-tart">Jack Horner Tart</a>
-<h4>L</h4>
-<a href="#livery-stable">Livery Stable</a>
-<h4>M</h4>
-<a href="#milkman">Milkman</a> - <a href="#muskeg">Muskeg</a>
-<h4>S</h4>
-<a href="#saskatoon-berries">Saskatoon Berries</a> - <a href="#saskatoon-pie">Saskatoon Pie</a>
-<h4>T</h4>
-<a href="#toboggan">Toboggan</a>
+<h4>B</h4> <a href="#bobbed-hair">Bobbed Hair</a> - <a href="#butter-churn">Butter Churn</a>
+<h4>C</h4> <a href="#cadbury-chocolate">Cadbury Chocolate</a> - <a href="#colonist-car">Colonist Car</a>
+<h4>D</h4> <a href="#deck-quoits">Deck Quoits</a>
+<h4>F</h4> <a href="#fountain-pen">Fountain Pen</a>
+<h4>G</h4> <a href="#general-store">General Store</a> - <a href="#gopher">Gopher</a> - <a href="#grain-elevator">Grain Elevator</a> - <a href="#gramophone">Gramophone</a>
+<h4>J</h4> <a href="#jack-horner-tart">Jack Horner Tart</a>
+<h4>L</h4> <a href="#livery-stable">Livery Stable</a>
+<h4>M</h4> <a href="#milkman">Milkman</a> - <a href="#muskeg">Muskeg</a>
+<h4>S</h4> <a href="#saskatoon-berries">Saskatoon Berries</a> - <a href="#saskatoon-pie">Saskatoon Pie</a>
+<h4>T</h4> <a href="#toboggan">Toboggan</a>
 
-<h2><a id="bobbed-hair">Bobbed Hair</a></h2>
+<h2>Bobbed Hair</h2> <a id="bobbed-hair"></a>
 <img src="/images/bob.jpg" alt="1920s Bob Hair Style"> 
 <p>"A bob cut, also known as a bob, is a short to medium length haircut, in which the hair is typically cut straight around the head at approximately jaw level, and no longer than shoulder-length, often with a fringe at the front. The standard bob cut exposes the back of the neck and keeps all of the hair well above the shoulders."</p>
 
