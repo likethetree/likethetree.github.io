@@ -8,17 +8,17 @@ nav_order: 2
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
  a:link {
-  color: purple;
-  background-color: transparent;
-  text-decoration: none;
-}
-  a:visited {
   color: black;
   background-color: transparent;
   text-decoration: none;
 }
+  a:visited {
+  color: mediumSeaGreen;
+  background-color: transparent;
+  text-decoration: none;
+}
 a:hover {
-  color: purple;
+  color: mediumSageGreen;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -28,7 +28,7 @@ a:active {
   text-decoration: underline;
 }
 .collapsible {
-  background-color: #777;
+  background-color:mediumSeaGreen;
   color: white;
   cursor: pointer;
   padding: 18px;
