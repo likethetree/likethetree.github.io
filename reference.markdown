@@ -79,11 +79,9 @@ a:active {
   <h6>T</h6>
   <p style="font-size:75%;"><a href="#toboggan">Toboggan</a>
  </div>
-
-<script>
+ <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
-
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
     this.classList.toggle("active");
@@ -96,7 +94,6 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
-
 
 <h2>Bobbed Hair</h2><a id="bobbed-hair"></a> 
 <img src="/images/bob.jpg" alt="1920s Bob Hair Style"> 
