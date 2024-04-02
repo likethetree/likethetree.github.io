@@ -52,33 +52,76 @@ a:active {
 <body>
 <button type="button" class="collapsible">Index</button>
 <div class="content">
+ <h6>A</h6>
+ <p style="font-size:75%;"><a href="#ausonia">Ausonia</a></p>
+ <p style="font-size:75%;"><a href="#ali-baba">Ali Baba and the Forty Thieves</a></p>
+ <p style="font-size:75%;"><a href="#anne-of-green-gables">Anne of Green Gables</a></p>
+ <p style="font-size:75%;"><a href="#north-wind">At the Back of the North Wind</a></p>
  <h6>B</h6> 
+ <p style="font-size:75%;"><a href="#bab-a-sub-deb">Bab: A Sub Deb</a></p>
  <p style="font-size:75%;"><a href="#bobbed-hair">Bobbed Hair</a></p>
+ <p style="font-size:75%;"><a href="#box-social">Box Social</a></p>
  <p style="font-size:75%;"> <a href="#butter-churn">Butter Churn</a></p>
+ <p style="font-size:75%;"><a href="#butter-tart">Butter Tart</a></p>
  <h6>C</h6> 
  <p style="font-size:75%;"><a href="#cadbury-chocolate">Cadbury Chocolate</a></p>
+ <p style="font-size:75%;"><a href="#canada-west">Canada West</a></p>
+ <p style="font-size:75%;"><a href="#caragana">Caragana</a></p>
+ <p style="font-size:75%;"><a href="#carbolic-acid">Carbolic</a></p>
+ <p style="font-size:75%;"><a href="#cashmere-bouquet">Cashmere Bouquet</a></p>
+ <p style="font-size:75%;"><a href="#chautauqua">Chautauqua</a></p>
+ <p style="font-size:75%;"><a href="#chiffonier">Chiffonier</a></p>
+ <p style="font-size:75%;"><a href="#chillblain">Chillblain</a></p>
  <p style="font-size:75%;"><a href="#colonist-car">Colonist Car</a></p>
  <h6>D</h6>
  <p style="font-size:75%;"><a href="#deck-quoits">Deck Quoits</a></p>
+ <p style="font-size:75%;"><a href="#doily">Doily</a></p>
+ <p style="font-size:75%;"><a href="#dray-cart">Dray Cart</a></p>
  <h6>F</h6> 
+ <p style="font-size:75%;"><a href="#flapper">Flapper</a></p>
  <p style="font-size:75%;"><a href="#fountain-pen">Fountain Pen</a></p>
+ <p style="font-size:75%;"><a href="#fox-and-geese">Fox and Geese</a></p>
  <h6>G</h6> 
  <p style="font-size:75%;"><a href="#general-store">General Store</a></p>
  <p style="font-size:75%;"><a href="#gopher">Gopher</a></p>
  <p style="font-size:75%;"><a href="#grain-elevator">Grain Elevator</a></p>
  <p style="font-size:75%;"><a href="#gramophone">Gramophone</a></p>
+ <p style="font-size:75%;"><a href="#great-auk">Great Auk</a></p>
+ <h6>H</h6>
+ <p style="font-size:75%;"><a href="#hobby-horse">Hobby Horse</a></p>
  <h6>J</h6> 
  <p style="font-size:75%;"><a href="#jack-horner-tart">Jack Horner Tart</a></p>
+ <p style="font-size:75%;"><a href="#just-patty">Just Patty</a></p>
+ <h6>K</h6>
+ <p style="font-size:75%;"><a href="#kapok">Kapok</a></p>
  <h6>L</h6> 
  <p style="font-size:75%;"><a href="#livery-stable">Livery Stable</a></p>
+ <p style="font-size:75%;"><a href="#long-underwear">Long Underwear</a></p>
+ <p style="font-size:75%;"><a href="#lost-in-the-backwoods">Lost in the Backwoods</a></p>
+ <p style="font-size:75%;"><a href="#lutefisk">Lutefisk</a></p>
+ <p style="font-size:75%;"><a href="#lyles-syrup">Lyle's Golden Syrup</a></p>
  <h6>M</h6> 
+ <p style="font-size:75%;"><a href="#mercurochrome">Mercurochrome</a></p>
  <p style="font-size:75%;"><a href="#milkman">Milkman</a></p>
+ <p style="font-size:75%;"><a href="#model-t">Model T</a></p>
  <p style="font-size:75%;"><a href="#muskeg">Muskeg</a></p>
+ <h6>N</h6>
+ <p style="font-size:75%;"><a href="#normal-school">Normal School</a></p>
  <h6>S</h6> 
  <p style="font-size:75%;"><a href="#saskatoon-berries">Saskatoon Berries</a></p>
  <p style="font-size:75%;"><a href="#saskatoon-pie">Saskatoon Pie</a></p>
+ <p style="font-size:75%;"><a href="#scones">Scones</a></p>
+ <p style="font-size:75%;"><a href="#scribbler">Scribbler</a></p>
+ <p style="font-size:75%;"><a href="#skunk">Skunk</a></p>
+ <p style="font-size:75%;"><a href="#sod-house">Sod House</a></p>
+ <p style="font-size:75%;"><a href="#sowing-seeds">Sowing Seeds in Danny</a></p>
+ <p style="font-size:75%;"><a href="#strap">Strap</a></p>
  <h6>T</h6>
+ <p style="font-size:75%;"><a href="#tacmahac">Tacmahac</a></p>
+ <p style="font-size:75%;"><a href="#threshing-machine">Threshing Machine</a></p>
+ <p style="font-size:75%;"><a href="#tinkertoys">Tinkertoys</a></p>
  <p style="font-size:75%;"><a href="#toboggan">Toboggan</a></p>
+ <p style="font-size:75%;"><a href="#toque">Toque</a></p>
 </div>
 
 <script>
@@ -348,11 +391,32 @@ a:active {
 
 <h2>Strap</h2><a id="strap"></a>
 <img src="/images/strap.jpg" alt="Strap">
+<p>Strapping is when someone uses a strip of leather, called a strap, to give someone a spanking as punishment. The strap is usually wide and heavy, sometimes with a hard handle, and it's swung to hit the person being punished.</p>
+<a href="https://en.wikipedia.org/wiki/Strapping_(punishment)">Source</a>
 
+<h2>Tacmahac</h2><a id="tacmahac"></a>
+<img src="/images/tacmahac.JPG" alt="Tacmahac Leaves">
+<p>The balsam poplar, also known as Tacmahac, is a type of tree with sticky buds that herbalists love to use for medicine. When the wind blows in the spring, branches with these buds might fall to the ground. People from different cultures, like Indigenous North Americans and Europeans, use these buds to make special medicines. They're really important ingredients in herbal remedies that help people feel better!</p>
+<a href="https://en.wikipedia.org/wiki/Populus_balsamifera">Source</a>
+
+<h2>Threshing Machine</h2><a id="threshing-machine"></a>
+<img src="/images/threshing machine.jpg" alt="Threshing Machine Illustration">
+<p>A threshing machine, also called a thresher, is a piece of farm equipment that helps farmers separate grain seeds from the rest of the plant. It does this by giving the plant a gentle beating, which makes the seeds fall out. Before machines like these were invented, farmers had to do all this work by hand using tools called flails. It was really hard work and took a lot of time. When threshing machines came along, the job got easier!</p>
+<a href="https://en.wikipedia.org/wiki/Threshing_machine">Source</a>
+
+<h2>Tinkertoys</h2><a id="tinkertoys"></a>
+<img src="/images/tinkertoys.jpg" alt="Tinkertoys">
+<p>Tinkertoys are a classic toy construction set made up of wooden sticks, rods, and wheels that can be connected together to build all sorts of creative structures like buildings, vehicles, and more.</p>
+<a href="https://en.wikipedia.org/wiki/Tinkertoy">Source</a>
 
 <h2>Toboggan</h2><a id="toboggan"></a> 
 <img src="/images/toboggan.jpg" alt="Toboggan in Use">
 <p>"A toboggan is a type of sled that's been used for a long time, especially by kids for sliding down snowy hills. But it's not just for fun—some Indigenous peoples in northern Canada, like the Innu and Cree, have been using toboggans as a way to get around in snowy areas for ages. They're like big sleds that can carry people and things over snow-covered ground, making them really useful for traveling in those cold and snowy places."</p>
 <a href="https://en.wikipedia.org/wiki/Toboggan">Source</a>
+
+<h2>Toque</h2><a id="toque"></a>
+<img src="/images/toque.webp" alt="Toque">
+<p>In Canada, a knit cap is often called a toque. It's usually made of soft wool and worn to keep warm in the winter. But nowadays, people wear knit toques all the time, not just when it's cold outside! They're a super trendy fashion accessory that you can wear indoors or outdoors, no matter the season.</p>
+<a href="https://en.wikipedia.org/wiki/Knit_cap#Canadian_toque,_tuque_or_touque">Source</a>
 
 </body>
