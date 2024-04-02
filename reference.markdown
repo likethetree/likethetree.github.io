@@ -99,45 +99,88 @@ a:active {
 </script>
 <h2>Ausonia</h2><a id="ausonia"></a>
 <img src="/images/Ausonia.jpg" alt="Black and White photo of the RMS Ausonia">
-<p>"Ausonia was constructed in Newcastle by Armstrong, Whitworth & Co. and was launched on March 22, 1921. After completion in June of the same year, she embarked on her first voyage on August 31, 1921, sailing from Liverpool to Montreal. In the subsequent season, Ausonia began service on the London-Canada route."</p>
+<p>The Ausonia was constructed in Newcastle by Armstrong, Whitworth & Co. and was launched on March 22, 1921. After completion in June of the same year, she embarked on her first voyage on August 31, 1921, sailing from Liverpool to Montreal. In the subsequent season, Ausonia began service on the London-Canada route.</p>
 <a href="https://en.wikipedia.org/wiki/RMS_Ausonia">Source</a>
 
 <h2>Ali Baba and the Forty Thieves</h2> <a id="ali-baba"></a>
 <img src="/images/ali baba.jpg" alt="Ali Baba and the Forty Thieves">
-<p>"Ali Baba and the Forty Thieves" is a famous story from Arabic folklore that was added to the collection of tales known as the One Thousand and One Nights in the 18th century. It was included by the French translator Antoine Galland, who learned it from a storyteller named Hanna Diyab from Syria"</p>
+<p>"Ali Baba and the Forty Thieves" is a famous story from Arabic folklore that was added to the collection of tales known as the One Thousand and One Nights in the 18th century. It was included by the French translator Antoine Galland, who learned it from a storyteller named Hanna Diyab from Syria</p>
 <a href="https://en.wikipedia.org/wiki/Ali_Baba_and_the_Forty_Thieves">Source</a>
 
 <h2>Anne of Green Gables</h2><a id="anne-of-green-gables"></a>
 <img src="/images/anne of green gables.jpg" alt="Anne of Green Gables">
-<p>"Anne of Green Gables" is a book written by Canadian author Lucy Maud Montgomery, published under the name L. M. Montgomery in 1908. It's a story for people of all ages and has been loved as a classic children's novel since the middle of the 20th century. The story takes place in the late 1800s and follows the adventures of Anne Shirley, an 11-year-old orphan girl. She's mistakenly sent to live with two older siblings, Matthew and Marilla Cuthbert, who were hoping to adopt a boy to help on their farm in the made-up town of Avonlea on Prince Edward Island, Canada. The book tells the tale of Anne's life with the Cuthberts, her experiences at school, and her adventures in the town."</p>
+<p>"Anne of Green Gables" is a book written by Canadian author Lucy Maud Montgomery, published under the name L. M. Montgomery in 1908. It's a story for people of all ages and has been loved as a classic children's novel since the middle of the 20th century. The story takes place in the late 1800s and follows the adventures of Anne Shirley, an 11-year-old orphan girl. She's mistakenly sent to live with two older siblings, Matthew and Marilla Cuthbert, who were hoping to adopt a boy to help on their farm in the made-up town of Avonlea on Prince Edward Island, Canada. The book tells the tale of Anne's life with the Cuthberts, her experiences at school, and her adventures in the town.</p>
 <a href="https://en.wikipedia.org/wiki/Anne_of_Green_Gables">Source</a>
 
 <h2>At the Back of the North Wind</h2><a id="north-wind"></a>
 <img src="/images/at the back of the north wind.jpg" alt="At the Back of the North Win">
-<p>"At the Back of the North Wind" is a story written by George MacDonald, a Scottish author. It first appeared in a magazine for kids called Good Words for the Young in 1868 and was later published as a book in 1871. The story is about a boy named Diamond and his amazing adventures with the North Wind. Diamond goes on exciting journeys with the mysterious Lady North Wind during the nighttime. In the book, there's also a fairy tale called Little Daylight, which can be read on its own or as part of other fairy tale collections by MacDonald."</p>
+<p>"At the Back of the North Wind" is a story written by George MacDonald, a Scottish author. It first appeared in a magazine for kids called Good Words for the Young in 1868 and was later published as a book in 1871. The story is about a boy named Diamond and his amazing adventures with the North Wind. Diamond goes on exciting journeys with the mysterious Lady North Wind during the nighttime. In the book, there's also a fairy tale called Little Daylight, which can be read on its own or as part of other fairy tale collections by MacDonald.</p>
 <a href="https://en.wikipedia.org/wiki/At_the_Back_of_the_North_Wind">Source</a>
 
 <h2>Bab: A Sub-Deb</h2><a id="bab-a-sub-deb"></a>
 <img src="/images/bab a sub-deb.jpg" alt="Bab: A Sub-Deb">
-<p>"Bab" is a touching novel filled with interesting characters, written by the talented American author Mary Roberts Rinehart. It's all about Bab, the main character, and her journey from being a sheltered child to becoming a confident young woman who values her independence. Most of the story happens in a small American town, where we see Bab growing up and dealing with the ups and downs of life."</p>
+<p>"Bab" is a touching novel filled with interesting characters, written by the talented American author Mary Roberts Rinehart. It's all about Bab, the main character, and her journey from being a sheltered child to becoming a confident young woman who values her independence. Most of the story happens in a small American town, where we see Bab growing up and dealing with the ups and downs of life.</p>
 <a href="https://books.google.ie/books/about/Bab.html?id=ZyZt0AEACAAJ&source=kp_book_description&redir_esc=y">Source</a>
 
 <h2>Bobbed Hair</h2><a id="bobbed-hair"></a> 
 <img src="/images/bob.jpg" alt="1920s Bob Hair Style"> 
-<p>"A bob cut is a short or medium haircut where the hair is cut straight around your head, usually at chin level. It doesn't go past your shoulders and often has bangs in the front. This haircut shows off your neck and keeps your hair above your shoulders."</p>
+<p>A bob cut is a short or medium haircut where the hair is cut straight around your head, usually at chin level. It doesn't go past your shoulders and often has bangs in the front. This haircut shows off your neck and keeps your hair above your shoulders.</p>
 <a href="https://en.wikipedia.org/wiki/Bob_cut">Source</a>
 
-
+<h2>Box Social</h2><a id="box-social"></a>
+<img src="/images/box social.jpg" alt="Box Social">
+<p>In this tradition, women make special decorated boxes and fill them with lunch or dinner for two people. Then, men bid on these boxes, hoping to win a meal with the woman who made it. The catch is, the boxes are usually anonymous, so the men don't know whose box they're bidding on or what's inside. This adds a fun mystery element to the event, and sometimes the women drop hints to their favorite men about which box is theirs. The bidding involves lots of teasing, joking, and friendly competition. These events often happen in places like town halls, school gyms, or church halls, where everyone can gather and have a good time together.</p>
+<a href="https://en.wikipedia.org/wiki/Box_social">Source</a>
 
 <h2>Butter Churn</h2><a id="butter-churn"></a> 
 <img src="/images/butter churn.webp" alt="1920s Butter Churn"> 
-<p>"A butter churn is a machine that turns cream into butter. It works by moving the cream around a lot until it becomes butter. You can do this by using a stick through the lid or by turning a handle that spins something inside the churn."</p>
+<p>A butter churn is a machine that turns cream into butter. It works by moving the cream around a lot until it becomes butter. You can do this by using a stick through the lid or by turning a handle that spins something inside the churn.</p>
 <a href="https://en.wikipedia.org/wiki/Butter_churn">Source</a>
+
+<h2>Butter Tart</h2><a id="butter-tart"></a>
+<img src="/images/butter tart.jpg" alt="Butter Tart">
+<p>A butter tart is a delicious treat that Canadians love. It's a small pastry tart with a sweet filling made of butter, sugar, syrup, and egg. The filling is baked inside a pastry shell until it's partly solid with a crispy top. It's a favorite dessert or snack for many people in Canada because of its yummy, gooey goodness!</p>
+<a href="https://en.wikipedia.org/wiki/Butter_tart">Source</a>
 
 <h2>Cadbury Chocolate</h2><a id="cadbury-chocolate"></a> 
 <img src="/images/cadbury chocolate.png" alt="1920s Cadbury Chocolate Bar Wrapper">
-<p>"Cadbury Dairy Milk is a chocolate made by Cadbury, a company from Britain. It first came out in the UK in June 1905 and has grown into many different types of chocolate treats. Everything in the Dairy Milk range is made with creamy milk chocolate."</p>
+<p>Cadbury Dairy Milk is a chocolate made by Cadbury, a company from Britain. It first came out in the UK in June 1905 and has grown into many different types of chocolate treats. Everything in the Dairy Milk range is made with creamy milk chocolate.</p>
 <a href="https://en.wikipedia.org/wiki/Cadbury_Dairy_Milk">Source</a>
+
+<h2>Canada West</h2><a id="canada-west"></a>
+<img src="/images/canada west.jpg" alt="Canada West Immigration Handbook">
+<p>Canada West is a very detailed guide for potential settlers, offering the usual superlatives, but also specifics about regulations (immigration, customs, homesteading, freight), practical considerations for travel, and statistics on population land prices, costs of improvements and buildings, etc. Separate sections describe the crops and livestock raised, transportation, schools and social conditions, and recreational and scenic offerings of Manitoba, Saskatchewan, Alberta, and British Columbia.</p>
+<a href="https://www.walkaboutbooks.net/pages/books/21705/canada-west">Source</a>
+
+<h2>Caragana Leaves</h2><a id="caragana"></a>
+<img src="/images/caragana.jpg" alt="Caragana Leaves">
+<p>Caragana arborescens, also known as the Siberian peashrub or caragana, is a plant that comes from places like Siberia, China, Mongolia, and Kazakhstan. People from Eurasia brought it to the United States a long time ago and used it for food while they traveled west. But, in some parts of the United States, it's seen as a problem because it grows too much and takes over other plants. In the 1880s, it was brought to the Canadian prairies where it became really popular. This tough plant helped by giving animals homes, keeping soil from washing away, and stopping snow from piling up too much.</p>
+<a href="https://en.wikipedia.org/wiki/Caragana_arborescens">Source</a>
+
+<h2>Carbolic Acid</h2><a id="carbolic-acid"></a>
+<img src="/images/carbolic.jpg" alt="Carbolic Acid">
+<p>Phenol, also called carbolic acid or benzenol, is a special kind of organic compound made up of atoms like carbon, hydrogen, and oxygen. It looks like tiny white crystals and can easily turn into vapor. The molecule of phenol has a part called a phenyl group and another part called a hydroxy group. It's a bit acidic, so it needs to be handled with care because it can hurt your skin if you're not careful. Phenol was commonly used as a type of antiseptic, which means it helped keep things clean and kill germs. It's also used to make a special kind of soap called carbolic soap, which has extra cleaning power because of the phenol in it.</p>
+<a href="https://en.wikipedia.org/wiki/Phenol">Source</a>
+
+<h2>Cashmere Bouquet</h2><a id="cashmere-bouquet"></a>
+<img src="/images/cashmere bouquet.jpg" alt="Cashmere Bouquet Powder">
+<p>Face powder is a makeup product that you put on your face to make it look better. People have been using it since ancient times, like in Egypt! In different places and times, it's been used for different things. Nowadays, we use it to make our makeup stay in place, make our skin look brighter, and shape our faces.</p>
+<a href="https://en.wikipedia.org/wiki/Face_powder">Source</a>
+
+<h2>Chautauqua</h2><a id="chautauqua"></a>
+<img src="/images/chautauqua.jpg" alt="Chautauqua">
+<p>Chautauqua was a big deal in the late 1800s and early 1900s in North America. It was like a mix of school and fun for grown-ups! Chautauqua assemblies popped up all over rural areas until the mid-1920s, bringing all sorts of entertainment and learning to communities. They had speakers, teachers, musicians, performers, and experts who shared their knowledge and skills with everyone who came. It was a great way for people to learn new things and have a good time together.</p>
+<a href="https://en.wikipedia.org/wiki/Chautauqua">Source</a>
+
+<h2>Chiffonier</h2><a id="chiffonier"></a>
+<img src="/images/chiffonier.jpg" alt="Chiffonier Illustration">
+<p>A chiffonier is like a tall, skinny, and fancy dresser. Sometimes it even has a mirror on top to make it extra special. It's often part of a piece of furniture called a chifforobe in the United States, which combines a chiffonier with a wardrobe.</p>
+<a href="https://en.wikipedia.org/wiki/Chiffonier">Source</a>
+
+<h2>Chillblain</h2><a id="chillblain"></a>
+<img src="/images/chillblain.jpg" alt="Chillblain">
+<p>A chillblain is a medical condition that happens when your skin gets irritated and inflamed after being exposed to cold and damp conditions for a long time. It often affects your toes, fingers, ears, or nose, causing them to become red, itchy, swollen, and sometimes painful. It's important to keep warm and dry to prevent chillblains from happening.</p>
+<a href="https://en.wikipedia.org/wiki/Chilblains">Source</a>
 
 <h2>Colonist Car</h2><a id="colonist-car"></a> 
 <img src="/images/colonist car.jpg" alt="Colonist Car in Use"> 
@@ -149,10 +192,30 @@ a:active {
 <p>"Quoits is an old-fashioned game where you toss metal, rope, or rubber rings a certain distance, trying to get them to land over or close to a peg or spike. Sometimes, people call the peg different names like hob, mott, or pin. There are different ways to play quoits, so it's not always the same game."</p>
 <a href="https://en.wikipedia.org/wiki/Quoits">Source</a>
 
+<h2>Doily</h2><a id="doily"></a>
+<img src="/images/doily.jpg" alt="Doily">
+<p>A doily is a decorative mat that's usually made of paper or fabric. It's used in different ways, like protecting tables, wrapping around flowers, or making food look pretty when it's served. Sometimes, people also use it to decorate clothes or as a head covering for women in certain religious traditions. Doilies are special because they have delicate patterns that let you see the surface underneath.</p>
+<a href="https://en.wikipedia.org/wiki/Doily">Source</a>
+
+<h2>Dray Cart</h2><a id="dray-cart"></a>
+<img src="/images/dray cart.jpg" alt="Dray Cart">
+<p>A cart or dray is a type of vehicle made for carrying things. It usually has two wheels and is pulled by animals like horses, donkeys, or oxen. Sometimes, smaller animals like goats or big dogs can pull carts too. They're handy for moving heavy stuff from one place to another.</p>
+<a href="https://en.wikipedia.org/wiki/Cart">Source</a>
+
+<h2>Flapper</h2><a id="flapper"></a>
+<img src="/images/flapper.jpg" alt="Flappers">
+<p>Flappers were a group of young women in the Western world who became popular after World War I and during the 1920s. They had a unique style: they wore short skirts, cut their hair short, and loved listening to jazz music. They didn't care much for the traditional rules of behavior and often did things that were considered daring at the time. For example, they wore a lot of makeup, drank alcohol, smoked cigarettes in public, drove cars, and were open about their relationships. As cars became more common, flappers enjoyed more freedom to go where they pleased and do what they wanted.</p>
+<a href="https://en.wikipedia.org/wiki/Flapper">Source</a>
+
 <h2>Fountain Pen</h2><a id="fountain-pen"></a> 
 <img src="/images/fountain pen.jpg" alt="Vintage Fountain Pen">
 <p>"A fountain pen is a special kind of pen for writing. Instead of dipping it in ink like older pens, it has a little tank inside that holds ink. The ink flows through a metal tip, called a nib, onto the paper when you write. This means you don't have to keep dipping the pen in an inkwell while you write."</p>
 <a href="https://en.wikipedia.org/wiki/Fountain_pen">Source</a>
+
+<h2>Fox and Geese</h2><a id="fox-and-geese"></a>
+<img src="/images/fox and geese.webp" alt="Fox and Geese Board Game">
+<p>Fox games are a special type of board game for two players where one player gets to be the fox and tries to catch the geese or sheep. The other player controls the geese or sheep and tries to trap the fox or get to a certain spot on the board. Another version of this game is called fox and hounds, where the fox tries to avoid being caught by the hounds. There are different versions of these games that people play and enjoy!</p>
+<a href="https://en.wikipedia.org/wiki/Fox_games">Source</a>
 
 <h2>General Store</h2><a id="general-store"></a> 
 <img src="/images/general store.jpg" alt="Inside a Typical General Store"> 
