@@ -50,7 +50,7 @@ a:active {
 </style>
 </head>
 <body>
- <p>Welcome to the Dear Canada Project reference page! Here, you'll find pictures and explanations for different words used in the text that might not be so familiar anymore.</p>
+ <p>Welcome to the Dear Canada Project reference page! Here, you'll find pictures and explanations for different words used in the books that might not be so familiar in the 21st century.</p>
 <button type="button" class="collapsible">Index</button>
 <div class="content">
  <h6>A</h6>
