@@ -98,12 +98,36 @@ a:active {
 }
 </script>
 <h2>Ausonia</h2><a id="ausonia"></a>
+<img src="/images/Ausonia.jpg" alt="Black and White photo of the RMS Ausonia">
+<p>"Ausonia was constructed in Newcastle by Armstrong, Whitworth & Co. and was launched on March 22, 1921. After completion in June of the same year, she embarked on her first voyage on August 31, 1921, sailing from Liverpool to Montreal. In the subsequent season, Ausonia began service on the London-Canada route."</p>
+<a href="https://en.wikipedia.org/wiki/RMS_Ausonia">Source</a>
 
+<h2>Ali Baba and the Forty Thieves</h2> <a id="ali-baba"></a>
+<img src="/images/ali baba.jpg" alt="Ali Baba and the Forty Thieves">
+<p>"Ali Baba and the Forty Thieves" is a famous story from Arabic folklore that was added to the collection of tales known as the One Thousand and One Nights in the 18th century. It was included by the French translator Antoine Galland, who learned it from a storyteller named Hanna Diyab from Syria"</p>
+<a href="https://en.wikipedia.org/wiki/Ali_Baba_and_the_Forty_Thieves">Source</a>
+
+<h2>Anne of Green Gables</h2><a id="anne-of-green-gables"></a>
+<img src="/images/anne of green gables.jpg" alt="Anne of Green Gables">
+<p>"Anne of Green Gables" is a book written by Canadian author Lucy Maud Montgomery, published under the name L. M. Montgomery in 1908. It's a story for people of all ages and has been loved as a classic children's novel since the middle of the 20th century. The story takes place in the late 1800s and follows the adventures of Anne Shirley, an 11-year-old orphan girl. She's mistakenly sent to live with two older siblings, Matthew and Marilla Cuthbert, who were hoping to adopt a boy to help on their farm in the made-up town of Avonlea on Prince Edward Island, Canada. The book tells the tale of Anne's life with the Cuthberts, her experiences at school, and her adventures in the town."</p>
+<a href="https://en.wikipedia.org/wiki/Anne_of_Green_Gables">Source</a>
+
+<h2>At the Back of the North Wind</h2><a id="north-wind"></a>
+<img src="/images/at the back of the north wind.jpg" alt="At the Back of the North Win">
+<p>"At the Back of the North Wind" is a story written by George MacDonald, a Scottish author. It first appeared in a magazine for kids called Good Words for the Young in 1868 and was later published as a book in 1871. The story is about a boy named Diamond and his amazing adventures with the North Wind. Diamond goes on exciting journeys with the mysterious Lady North Wind during the nighttime. In the book, there's also a fairy tale called Little Daylight, which can be read on its own or as part of other fairy tale collections by MacDonald."</p>
+<a href="https://en.wikipedia.org/wiki/At_the_Back_of_the_North_Wind">Source</a>
+
+<h2>Bab: A Sub-Deb</h2><a id="bab-a-sub-deb"></a>
+<img src="/images/bab a sub-deb.jpg" alt="Bab: A Sub-Deb">
+<p>"Bab" is a touching novel filled with interesting characters, written by the talented American author Mary Roberts Rinehart. It's all about Bab, the main character, and her journey from being a sheltered child to becoming a confident young woman who values her independence. Most of the story happens in a small American town, where we see Bab growing up and dealing with the ups and downs of life."</p>
+<a href="https://books.google.ie/books/about/Bab.html?id=ZyZt0AEACAAJ&source=kp_book_description&redir_esc=y">Source</a>
 
 <h2>Bobbed Hair</h2><a id="bobbed-hair"></a> 
 <img src="/images/bob.jpg" alt="1920s Bob Hair Style"> 
 <p>"A bob cut is a short or medium haircut where the hair is cut straight around your head, usually at chin level. It doesn't go past your shoulders and often has bangs in the front. This haircut shows off your neck and keeps your hair above your shoulders."</p>
 <a href="https://en.wikipedia.org/wiki/Bob_cut">Source</a>
+
+
 
 <h2>Butter Churn</h2><a id="butter-churn"></a> 
 <img src="/images/butter churn.webp" alt="1920s Butter Churn"> 
