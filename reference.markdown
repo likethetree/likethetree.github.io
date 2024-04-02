@@ -128,7 +128,7 @@ a:active {
 <a href="https://en.wikipedia.org/wiki/Bob_cut">Source</a>
 
 <h2>Box Social</h2><a id="box-social"></a>
-<img src="/images/box social.jpg" alt="Box Social">
+<img src="/images/box social.webp" alt="Box Social">
 <p>In this tradition, women make special decorated boxes and fill them with lunch or dinner for two people. Then, men bid on these boxes, hoping to win a meal with the woman who made it. The catch is, the boxes are usually anonymous, so the men don't know whose box they're bidding on or what's inside. This adds a fun mystery element to the event, and sometimes the women drop hints to their favorite men about which box is theirs. The bidding involves lots of teasing, joking, and friendly competition. These events often happen in places like town halls, school gyms, or church halls, where everyone can gather and have a good time together.</p>
 <a href="https://en.wikipedia.org/wiki/Box_social">Source</a>
 
