@@ -97,119 +97,102 @@ a:active {
   });
 }
 </script>
+<h2>Ausonia</h2><a id="ausonia"></a>
+
 
 <h2>Bobbed Hair</h2><a id="bobbed-hair"></a> 
 <img src="/images/bob.jpg" alt="1920s Bob Hair Style"> 
-<p>"A bob cut, also known as a bob, is a short to medium length haircut, in which the hair is typically cut straight around the head at approximately jaw level, and no longer than shoulder-length, often with a fringe at the front. The standard bob cut exposes the back of the neck and keeps all of the hair well above the shoulders."</p>
-
+<p>"A bob cut is a short or medium haircut where the hair is cut straight around your head, usually at chin level. It doesn't go past your shoulders and often has bangs in the front. This haircut shows off your neck and keeps your hair above your shoulders."</p>
 <a href="https://en.wikipedia.org/wiki/Bob_cut">Source</a>
 
 <h2>Butter Churn</h2><a id="butter-churn"></a> 
 <img src="/images/butter churn.webp" alt="1920s Butter Churn"> 
-<p>"A butter churn is a device used to convert cream into butter, a process known as churning. This is done through a mechanical process, frequently via a pole inserted through the lid of the churn, or via a crank used to turn a rotating device inside the churn."</p>
-
+<p>"A butter churn is a machine that turns cream into butter. It works by moving the cream around a lot until it becomes butter. You can do this by using a stick through the lid or by turning a handle that spins something inside the churn."</p>
 <a href="https://en.wikipedia.org/wiki/Butter_churn">Source</a>
 
 <h2>Cadbury Chocolate</h2><a id="cadbury-chocolate"></a> 
 <img src="/images/cadbury chocolate.png" alt="1920s Cadbury Chocolate Bar Wrapper">
-<p>"Cadbury Dairy Milk is a British brand of milk chocolate manufactured by Cadbury. It was introduced in the United Kingdom in June 1905 and now consists of a number of products. Every product in the Dairy Milk line is made with exclusively milk chocolate. In 1928, Cadbury's introduced the "glass and a half" slogan to accompany the Dairy Milk chocolate bar, to advertise the bar's higher milk content."</p>
-
+<p>"Cadbury Dairy Milk is a chocolate made by Cadbury, a company from Britain. It first came out in the UK in June 1905 and has grown into many different types of chocolate treats. Everything in the Dairy Milk range is made with creamy milk chocolate."</p>
 <a href="https://en.wikipedia.org/wiki/Cadbury_Dairy_Milk">Source</a>
 
 <h2>Colonist Car</h2><a id="colonist-car"></a> 
 <img src="/images/colonist car.jpg" alt="Colonist Car in Use"> 
-<p>"Colonist cars were a solution to the challenge of North American settlement in the mid and late 19th century which saw the growth of settlement areas in the western interior of the continent, thousands of miles from the seaports where most immigrants arrived. Colonist cars began in the 1840s as the cheapest form of transport for immigrants who could only afford basic fares. At first they provided only benches around the side of what were often boxcars which could be converted to grain cars for return trips to the east coast."</p>
-
+<p>"Colonist cars were special train cars designed to help people move to faraway places in North America during the 1800s and early 1900s. Back then, lots of people were moving to new places in the western part of the continent, which were really far from the places where ships arrived with immigrants. These cars started in the 1840s as the cheapest way for immigrants to travel. They were pretty basic, usually just benches inside what were usually regular boxcars. Sometimes, these boxcars were used for carrying grains back to the east coast after dropping off people."</p>
 <a href="https://en.wikipedia.org/wiki/Colonist_car">Source</a>
 
 <h2>Deck Quoits</h2><a id="deck-quoits"></a> 
 <img src="/images/deck quoits.jpg" alt="Deck Quoits Illustration">
-<p>"Quoits is a traditional game which involves the throwing of metal, rope or rubber rings over a set distance, usually to land over or near a spike (sometimes called a hob, mott or pin). The game of quoits encompasses several distinct variations."</p>
-
+<p>"Quoits is an old-fashioned game where you toss metal, rope, or rubber rings a certain distance, trying to get them to land over or close to a peg or spike. Sometimes, people call the peg different names like hob, mott, or pin. There are different ways to play quoits, so it's not always the same game."</p>
 <a href="https://en.wikipedia.org/wiki/Quoits">Source</a>
 
 <h2>Fountain Pen</h2><a id="fountain-pen"></a> 
 <img src="/images/fountain pen.jpg" alt="Vintage Fountain Pen">
-<p>"A fountain pen is a writing instrument that uses a metal nib to apply water-based ink, or special pigment ink—suitable for fountain pens—to paper. It is distinguished from earlier dip pens by using an internal reservoir to hold ink, eliminating the need to repeatedly dip the pen in an inkwell during use."</p>
-
+<p>"A fountain pen is a special kind of pen for writing. Instead of dipping it in ink like older pens, it has a little tank inside that holds ink. The ink flows through a metal tip, called a nib, onto the paper when you write. This means you don't have to keep dipping the pen in an inkwell while you write."</p>
 <a href="https://en.wikipedia.org/wiki/Fountain_pen">Source</a>
 
 <h2>General Store</h2><a id="general-store"></a> 
 <img src="/images/general store.jpg" alt="Inside a Typical General Store"> 
-<p>"A general merchant store is a rural or small-town store that carries a general line of merchandise."</p>
-
+<p>"A general store is a small shop you might find in the countryside or a small town. It sells a bit of everything, like food, clothes, tools, and other stuff people might need. It's called a "general" store because it doesn't specialize in just one type of thing—it has a little bit of everything for everyone in the community."</p>
 <a href="https://en.wikipedia.org/wiki/General_store">Source</a>
 
 <h2>Gopher</h2><a id="gopher"></a> 
 <img src="/images/gopher.jpeg" alt="Canadian Prairie Dog">
-<p>"Prairie dogs are herbivorous burrowing ground squirrels native to the grasslands of North America. There are five recognized species of prairie dog: black-tailed, white-tailed, Gunnison's, Utah, and Mexican prairie dogs."</p>
-
+<p>"Prairie dogs are like little ground squirrels that live in the grasslands of North America. They only eat plants and spend a lot of time digging burrows underground where they live. There are five kinds of prairie dogs: black-tailed, white-tailed, Gunnison's, Utah, and Mexican prairie dogs."</p>
 <a href="https://en.wikipedia.org/wiki/Prairie_dog">Source</a>
 
 <h2>Grain Elevator</h2><a id="grain-elevator"></a> 
 <img src="/images/grain elevator.jpg" alt="Saskatchewan Grain Elevator">
-<p>A grain elevator is a facility designed to stockpile or store grain. In the grain trade, the term "grain elevator" also describes a tower containing a bucket elevator or a pneumatic conveyor, which scoops up grain from a lower level and deposits it in a silo or other storage facility.</p>
-
+<p>A grain elevator is like a big building made to store lots of grain. In the grain business, it can also mean a tall tower with a special conveyor belt or a pneumatic system that lifts grain from the ground and puts it into a storage silo or another storage place.</p>
 <a href="https://en.wikipedia.org/wiki/Grain_elevator">Source</a>
 
 <h2>Gramophone</h2><a id="gramophone"></a>
 <img src="/images/gramophone.jpg" alt="Vintage Gramophone">
-<p>"A phonograph, later called a gramophone (as a trademark since 1887, as a generic name in the UK since 1910), and since the 1940s a record player, or more recently a turntable,[a] is a device for the mechanical and analogue reproduction of recorded[b] sound."</p>
-
+<p>"A phonograph, also known as a gramophone or record player, is a machine that plays music or other recorded sounds. It's been called different names over the years. Instead of digital technology like we have now, it uses mechanical parts to play sound from records, which are flat discs with grooves on them."</p>
 <a href="https://en.wikipedia.org/wiki/Phonograph">Source</a>
 
 <h2>Jack Horner Tart</h2><a id="jack-horner-tart"></a>
 <img src="/images/jack horner tart.jpg" alt="Jack Horner Game">
-<p>A plum tart named after an English nursery rhyme. "Little Jack Horner" is a popular English nursery rhyme with the Roud Folk Song Index number 13027. First mentioned in the 18th century, it was early associated with acts of opportunism, particularly in politics." </p>
-
+<p>A plum tart called "Little Jack Horner" is inspired by an English nursery rhyme. The rhyme, also called "Little Jack Horner," has been around since the 18th century. It's a catchy little song that's been linked to opportunistic behavior, especially in politics. So, the tart might be named after the rhyme because it's a fun and whimsical nod to the past!"</p>
 <a href="https://en.wikipedia.org/wiki/Little_Jack_Horner">Source</a>
 
 <h2>Livery Stable</h2><a id="livery-stable"></a> 
 <img src="/images/livery stable.jpg" alt="Typical Livery Stable">
-<p>"A livery yard, livery stable or boarding stable, is a stable where horse owners pay a weekly or monthly fee to keep their horses. A livery or boarding yard is not usually a riding school and the horses are not normally for hire."</p>
-
+<p>"A livery yard, also called a livery stable or boarding stable, is a place where people pay to keep their horses for a certain period of time, like a week or a month. It's different from a riding school because it's not for lessons, and the horses aren't rented out for riding. It's more like a safe and comfortable place where horse owners can keep their animals when they're not at home."</p>
 <a href="https://en.wikipedia.org/wiki/Livery_yard">Source</a>
 
 <h2>Milkman</h2><a id="milkman"></a>
 <img src="/images/milkman.jpg" alt="Typical 1920s Milkman">
-<p>"Milk delivery is a delivery service dedicated to supplying milk, typically in bottles or cartons, to customers' homes. This service is performed by a milkman, milkwoman, or milk deliverer. (In contrast, a cowman or milkmaid tends to cows.) The delivery route is a milk route or milk run."</p>
-
+<p>"Milk delivery is when someone brings milk right to your doorstep, usually in bottles or cartons. This person is often called a milkman or milkwoman. They have a special route called a milk route or milk run where they deliver milk to different homes. It's a convenient way to make sure you always have fresh milk without having to go to the store."</p>
 <a href="https://en.wikipedia.org/wiki/Milk_delivery">Source</a>
 
 <h2>Muskeg</h2><a id="muskeg"></a> 
 <img src="/images/muskeg.JPG" alt="Canadian Muskeg">
-<p>"Muskeg is a peat-forming ecosystem found in several northern climates, most commonly in Arctic and boreal areas. Muskeg is approximately synonymous with bog or peatland, and is a standard term in Western Canada and Alaska."</p>
-
+<p>"Muskeg is a type of bog or peatland that forms in cold, northern areas like the Arctic and boreal regions. It's like a wet, spongy ground made of decaying plants. You can find muskeg in places like Western Canada and Alaska."</p>
 <a href="https://en.wikipedia.org/wiki/Muskeg">Source</a>
 
 <h2>Saskatoon Berries</h2><a id="saskatoon-berries"></a> 
 <img src="/images/saskatoon berries.jpg" alt="Wild Saskatoon Berries">
-<p>"Amelanchier alnifolia, the saskatoon berry, Pacific serviceberry, western serviceberry, western shadbush, or western juneberry, is a shrub native to North America. It is a member of the rose family, and bears an edible berry-like fruit."</p>
-
+<p>"Amelanchier alnifolia, also known as the saskatoon berry, Pacific serviceberry, western serviceberry, western shadbush, or western juneberry, is a bush that grows naturally in North America. It's part of the rose family and produces small fruits that are edible and taste similar to berries."</p>
 <a href="https://en.wikipedia.org/wiki/Amelanchier_alnifolia">Source</a>
 
 <h2>Saskatoon Pie</h2><a id="saskatoon-pie"></a> 
 <img src="/images/saskatoon pie.jpg" alt="Saskatoon Pie">
-<p>"Saskatoon berry pie is a type of pie with a saskatoon berry filling. The pie originated in the Prairies region of Canada and is often served with vanilla ice cream as a dessert. The primary ingredients of saskatoon berry pie include saskatoon berries, pie crust, sugar, cornstarch or flour, butter and lemon zest/juice. The pie is sometimes made with blueberries as a saskatoon berry substitute."</p>
-
+<p>"Saskatoon berry pie is a  dessert that comes from the Prairies region of Canada. It's made with a filling of saskatoon berries, a type of berry native to North America, along with a flaky pie crust. Other ingredients like sugar, cornstarch or flour, butter, and lemon zest or juice are added to make it delicious. Sometimes, if saskatoon berries are hard to find, blueberries can be used instead. It's often served with a scoop of vanilla ice cream!"</p>
 <a href="https://en.wikipedia.org/wiki/Saskatoon_berry_pie#cite_note-1">Source</a>
 
 <h2>Scones</h2><a id="scones"></a>
 <img src="/images/scones.jpg" alt="Scones with Cream and Jam">
-<p>"A scone is a traditional British baked good, popular in the United Kingdom and Ireland. It is usually made of either wheat flour or oatmeal, with baking powder as a leavening agent, and baked on sheet pans."</p>
-
+<p>"A scone is a tasty treat that's popular in the United Kingdom and Ireland. It's a kind of baked good made with either wheat flour or oatmeal, and it gets its fluffiness from baking powder. After mixing up the dough, it's baked on sheet pans until it's golden brown and delicious."</p>
 <a href="https://en.wikipedia.org/wiki/Scone">Source</a>
 
 <h2>Sod House</h2><a id="sod-house"></a> 
 <img src="/images/sod house.jpg" alt="Typical Canadian Sod House">
-<p>"The sod house or soddy was an often used alternative to the log cabin during frontier settlement of the Great Plains of Canada and the United States in the 1800s and early 1900s. Primarily used at first for animal shelters, corrals, and fences, if the prairie lacked standard building materials such as wood or stone, sod from thickly-rooted prairie grass was abundant, free, and could be used for house construction. Prairie grass has a much thicker, tougher root structure than a modern lawn."</p>
-
+<p>"Back in the 1800s and early 1900s, when people were settling in the Great Plains of Canada and the United States, they often used sod houses, also called soddy, instead of log cabins. These houses were made from thick, tough roots of prairie grass, which were abundant and free in those areas where trees and stones were scarce. Originally, people used sod for things like animal shelters and fences, but they found it could also be used to build houses. Prairie grass has a really strong root system, much tougher than the grass in our lawns today, making it a good building material for those early settlers."</p>
 <a href="https://en.wikipedia.org/wiki/Sod_house">Source</a>
 
 <h2>Toboggan</h2><a id="toboggan"></a> 
 <img src="/images/toboggan.jpg" alt="Toboggan in Use">
-<p>"A toboggan is a simple sled traditionally used by children. It is also a traditional form of transport used by the Innu and Cree of northern Canada."</p>
-
+<p>"A toboggan is a type of sled that's been used for a long time, especially by kids for sliding down snowy hills. But it's not just for fun—some Indigenous peoples in northern Canada, like the Innu and Cree, have been using toboggans as a way to get around in snowy areas for ages. They're like big sleds that can carry people and things over snow-covered ground, making them really useful for traveling in those cold and snowy places."</p>
 <a href="https://en.wikipedia.org/wiki/Toboggan">Source</a>
 
 </body>
