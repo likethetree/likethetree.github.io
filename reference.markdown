@@ -237,25 +237,80 @@ a:active {
 <p>"A phonograph, also known as a gramophone or record player, is a machine that plays music or other recorded sounds. It's been called different names over the years. Instead of digital technology like we have now, it uses mechanical parts to play sound from records, which are flat discs with grooves on them."</p>
 <a href="https://en.wikipedia.org/wiki/Phonograph">Source</a>
 
+<h2>Great Auk</h2><a id="great-auk"></a>
+<img src="/images/great auk.jpg" alt="Great Auk Illustration">
+<p>The great auk was a type of bird that couldn't fly, and sadly, it went extinct in the middle of the 19th century. It was the only kind of bird in its group called the genus Pinguinus. Even though it was called a penguin by sailors, it's not closely related to the penguins we know today from the Southern Hemisphere. Those penguins were discovered later and got their name because they looked similar to the great auk, which sailors had already called penguins.</p>
+<a href="https://en.wikipedia.org/wiki/Great_auk">Source</a>
+
+<h2>Hobby Horse</h2><a id="hobby-horse"></a>
+<img src="/images/hobby horse.jpg" alt="Hobby Horse">
+<p>A hobby horse is a fun toy for kids that looks like a horse. It's made of a straight stick with a little horse's head, and sometimes even reins, at one end. Some hobby horses even have wheels at the bottom so they can roll around. You might also hear them called cock horses or stick horses. Kids love pretending to ride them and gallop around like they're on a real horse!</p>
+<a href="https://en.wikipedia.org/wiki/Hobby_horse_(toy)">Source</a>
+
 <h2>Jack Horner Tart</h2><a id="jack-horner-tart"></a>
 <img src="/images/jack horner tart.jpg" alt="Jack Horner Game">
 <p>A plum tart called "Little Jack Horner" is inspired by an English nursery rhyme. The rhyme, also called "Little Jack Horner," has been around since the 18th century. It's a catchy little song that's been linked to opportunistic behavior, especially in politics. So, the tart might be named after the rhyme because it's a fun and whimsical nod to the past!"</p>
 <a href="https://en.wikipedia.org/wiki/Little_Jack_Horner">Source</a>
+
+<h2>Just Patty</h2><a id="just-patty"></a>
+<img src="/images/just patty.jpg" alt="Just Patty">
+<p>Just Patty" is the sixth book written by Jean Webster, and it came out in 1911. It's a story that happens before the events of "When Patty Went to College," another book by the same author.</p>
+<a href="https://www.goodreads.com/series/79274-patty">Source</a>
+
+<h2>Kapok</h2><a id="kapok"></a>
+<img src="/images/kapok.webp" alt="Kapok">
+<p>Kapok is a special kind of material that's a lot like cotton. It's made up of tiny fibers that grow inside fruit pods. These fibers are short, about 10 to 35 millimeters long, and they're a bit brittle because they have lignin in them. Usually, kapok fibers are mixed with other fibers, like cotton, before they can be spun into thread. Kapok fibers don't like water much, and they're great at keeping things warm. They can be white, light gray, or yellowish-brown in color. While they break down easily in nature, bugs don't bother them much.</p>
+<a href="https://en.wikipedia.org/wiki/Kapok_fibre">Source</a>
 
 <h2>Livery Stable</h2><a id="livery-stable"></a> 
 <img src="/images/livery stable.jpg" alt="Typical Livery Stable">
 <p>"A livery yard, also called a livery stable or boarding stable, is a place where people pay to keep their horses for a certain period of time, like a week or a month. It's different from a riding school because it's not for lessons, and the horses aren't rented out for riding. It's more like a safe and comfortable place where horse owners can keep their animals when they're not at home."</p>
 <a href="https://en.wikipedia.org/wiki/Livery_yard">Source</a>
 
+<h2>Long Underwear</h2><a id="long-underwear"></a>
+<img src="/images/long underwear.jpeg" alt="Long Underwear Illustration">
+<p>Long underwear, also called long johns or thermal underwear, is like cozy pajamas that you wear under your clothes when it's cold outside. It has long sleeves and long pants to keep you warm and toasty!</p>
+<a href="https://en.wikipedia.org/wiki/Long_underwear">Source</a>
+
+<h2>Lost in the Backwoods</h2><a id="lost-in-the-backwoods"></a>
+<img src="/images/lost in the backwoods.jpg" alt="Lost in the Backwoods">
+<p>Lost in the Backwoods" is a story by Catharine Parr Traill that is set in the early 1800s in western Ontario, Canada. It's about pioneers who were settling in the area, back when the forests were still big and wild. Three kids got lost in the woods, but they were really smart and found ways to survive by using what they could find in the forest. The story also shows what life was like back then, when people were just starting to make their homes in the wilderness.</p>
+<a href="https://www.amazon.co.uk/Lost-Backwoods-Tale-Canadian-Forest/dp/1514656930">Source</a>
+
+<h2>Lutefisk</h2><a id="lutefisk"></a>
+<img src="/images/lutefisk.webp" alt="Lutefisk">
+<p>Lutefisk is a traditional dish from Nordic countries like Norway and Sweden. It's made from dried whitefish, usually cod, that has been soaked in a lye solution for several days to rehydrate it. Then, it's rinsed thoroughly to remove the lye and soaked in cold water for even more time. After that, it's boiled or baked until it's gelatinous and flaky. Lutefisk is often served with boiled potatoes, white sauce, and sometimes bacon or green peas. It's a dish that's enjoyed by some people, but it has a strong and unique flavor that not everyone likes!</p>
+<a href="https://en.wikipedia.org/wiki/Lutefisk">Source</a>
+
+<h2>Lyle's Golden Syrup</h2><a id="lyles-syrup"></a>
+<img src="/images/lyle's golden syrup.jpg" alt="Lyle's Golden Syrup Tin">
+<p>Golden syrup or light treacle is a yummy, thick, and golden-colored syrup made from sugary juice found in sugar cane or sugar beets. It's made by a special process called refining. People use it in lots of yummy recipes for baking cakes, cookies, and other desserts. It looks and feels a bit like honey and can be used instead of honey if you don't have any. It's a tasty ingredient that makes treats extra delicious!</p>
+<a href="https://en.wikipedia.org/wiki/Golden_syrup">Source</a>
+
+<h2>Mercurochrome</h2><a id="mercurochrome"></a>
+<img src="/images/mercurochrome.jpg" alt="Mercurochrome">
+<p>Mercurochrome is a medicine that we use to clean and help heal small cuts, burns, and scrapes. It's also used to keep the belly button clean when babies are born and to help wounds that are hard to heal, like sores on feet. When we put it on a cut, it turns the skin red that stays even after we wash it.</p>
+<a href="https://en.wikipedia.org/wiki/Merbromin">Source</a>
+
 <h2>Milkman</h2><a id="milkman"></a>
 <img src="/images/milkman.jpg" alt="Typical 1920s Milkman">
 <p>"Milk delivery is when someone brings milk right to your doorstep, usually in bottles or cartons. This person is often called a milkman or milkwoman. They have a special route called a milk route or milk run where they deliver milk to different homes. It's a convenient way to make sure you always have fresh milk without having to go to the store."</p>
 <a href="https://en.wikipedia.org/wiki/Milk_delivery">Source</a>
 
+<h2>Model T</h2><a id="model-t"></a>
+<img src="/images/model t.jpg" alt="1926 Model T">
+<p>The Ford Model T is a special car made by the Ford Motor Company from 1908 to 1927. It's like the first car that lots of people could buy because it didn't cost too much. This meant that even regular families could have a car and go on fun trips! The reason it was affordable is because Ford was really good at making lots of them quickly, kind of like how toys are made on an assembly line. So, lots of families got to have their very own cars thanks to the Model T!</p>
+<a href="https://en.wikipedia.org/wiki/Ford_Model_T">Source</a>
+
 <h2>Muskeg</h2><a id="muskeg"></a> 
 <img src="/images/muskeg.JPG" alt="Canadian Muskeg">
 <p>"Muskeg is a type of bog or peatland that forms in cold, northern areas like the Arctic and boreal regions. It's like a wet, spongy ground made of decaying plants. You can find muskeg in places like Western Canada and Alaska."</p>
 <a href="https://en.wikipedia.org/wiki/Muskeg">Source</a>
+
+<h2>Normal School</h2><a id="normal-school"></a>
+<img src="/images/normal school.jpg" alt="Normal School Class Photo">
+<p>The Saskatchewan Normal School, also called the Regina Normal School, started way back in 1890 in Regina. It moved to its first real building in January 1914. In 1964, it became part of the University of Saskatchewan Regina Campus and then joined the University of Regina in 1974. Another normal school started in Moose Jaw in the early 1920s and moved to the Regina campus in 1959. These schools were places where teachers learned how to teach!</p>
+<a href="https://en.wikipedia.org/wiki/Normal_school">Source</a>
 
 <h2>Saskatoon Berries</h2><a id="saskatoon-berries"></a> 
 <img src="/images/saskatoon berries.jpg" alt="Wild Saskatoon Berries">
@@ -272,10 +327,28 @@ a:active {
 <p>"A scone is a tasty treat that's popular in the United Kingdom and Ireland. It's a kind of baked good made with either wheat flour or oatmeal, and it gets its fluffiness from baking powder. After mixing up the dough, it's baked on sheet pans until it's golden brown and delicious."</p>
 <a href="https://en.wikipedia.org/wiki/Scone">Source</a>
 
+<h2>Scribbler</h2><a id="scribbler"></a>
+<img src="/images/scribbler.webp" alt="Scribbler">
+<p>A scribbler is another word for a notebook or a pad of paper where you can write, draw, or doodle. Children in Canada used scribblers to do their schoolwork.</p>
+
+<h2>Skunk</h2><a id="skunk"></a>
+<img src="/images/skunk.jpg" alt="Skunk">
+<p>Skunks are furry animals that belong to the Mephitidae family. They're famous for their stinky superpower—they can spray a smelly liquid from their bottoms when they feel scared or threatened. Skunks come in different colors, like black-and-white, brown, cream, or ginger, but they all have special colors that warn other animals to stay away!</p>
+<a href="https://en.wikipedia.org/wiki/Skunk">Source</a>
+
 <h2>Sod House</h2><a id="sod-house"></a> 
 <img src="/images/sod house.jpg" alt="Typical Canadian Sod House">
 <p>"Back in the 1800s and early 1900s, when people were settling in the Great Plains of Canada and the United States, they often used sod houses, also called soddy, instead of log cabins. These houses were made from thick, tough roots of prairie grass, which were abundant and free in those areas where trees and stones were scarce. Originally, people used sod for things like animal shelters and fences, but they found it could also be used to build houses. Prairie grass has a really strong root system, much tougher than the grass in our lawns today, making it a good building material for those early settlers."</p>
 <a href="https://en.wikipedia.org/wiki/Sod_house">Source</a>
+
+<h2>Sowing Seeds in Danny</h2><a id="sowing-seeds"></a>
+<img src="/images/sowing seeds in danny.gif" alt="Sowing Seeds in Danny">
+<p>The Pearlie Watson trilogy includes three books: "Sowing Seeds in Danny," "The Second Chance," and "Purple Springs." These stories are about a brave girl named Pearl who starts off with a tough life in Millford. As she grows up, she moves to a farm and then becomes a leader in fighting for women's rights and making sure people don't drink too much alcohol. The stories take place in the early 1900s on the Prairies, and they're all about Pearl being really smart and kind, and making a big difference in the world. She even helps her little brother, Danny, along the way!</p>
+<a href="https://books.google.ie/books/about/Sowing_Seeds_in_Danny.html?id=nNe4QwAACAAJ&source=kp_book_description&redir_esc=y">Source</a>
+
+<h2>Strap</h2><a id="strap"></a>
+<img src="/images/strap.jpg" alt="Strap">
+
 
 <h2>Toboggan</h2><a id="toboggan"></a> 
 <img src="/images/toboggan.jpg" alt="Toboggan in Use">
