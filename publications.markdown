@@ -4,107 +4,44 @@ title: Map
 permalink: /publications/
 nav-order: 5
 ---
-  <head>
-    <title>Map Thematic Markers | JSCharting</title>
-    <meta http-equiv="content-type" content="text-html; charset=utf-8" />
-    <script type="text/javascript" src="../jsc/jscharting.js"></script>
-    <script type="text/javascript" src="../jsc/modules/toolbar.js"></script>
-    <script type="text/javascript" src="../jsc/modules/maps.js"></script>
-    <script type="text/javascript" src="../jsc/icons/material/maps/place.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/default.css" />
 
-   <style>
-    <style>
-      /*CSS*/
-    </style>
-  </head>
-  <body>
-    <div id="chartDiv" style="max-width: 740px;height: 400px;margin: 0px auto;"></div>
+<div id="container"></div>
 
-  <script type="text/javascript">
-      var capitalNames = [
-        'Montpelier',
-        'Dover',
-        'Annapolis',
-        'Carson City',
-        'Little Rock',
-        'Jefferson City',
-        'Hartford',
-        'Providence',
-        'Springfield',
-        'Frankfort',
-        'Madison',
-        'Trenton',
-        'Lansing',
-        'Lincoln',
-        'Concord',
-        'Columbus',
-        'Albany',
-        'Harrisburg',
-        'Olympia',
-        'Salem',
-        'Topeka',
-        'Baton Rouge',
-        'Austin',
-        'Montgomery',
-        'Tallahassee',
-        'Columbia',
-        'Indianapolis',
-        'Richmond',
-        'Charleston',
-        'Augusta',
-        'Helena',
-        'Bismarck',
-        'Boise',
-        'Sacramento',
-        'Santa Fe',
-        'Salt Lake City',
-        'Cheyenne',
-        'Des Moines',
-        'Oklahoma City',
-        'Pierre',
-        'Jackson',
-        'Raleigh',
-        'Nashville',
-        'Phoenix',
-        'Boston',
-        'Denver',
-        'Atlanta'
-      ];
+html, body, #container {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+anychart.onDocumentReady(function () {
 
-      var chart = JSC.chart('chartDiv', {
-        debug: true,
-        type: 'map',
-        toolbar_position: 'inside bottom right',
-        title_label_text: 'State Capitals & Populations',
-        mapping: {
-          referenceLayers: 'resources/UsCapitals.json.txt',
-          base: { layers: 'us' }
-        },
-        /* Pad the map data points for margin against the chart area boundary */
-        defaultSeries_shape_padding: 0.23,
-        palette: {
-          /* A function to get the point value performs better. */
-          pointValue: function(p) {
-            return p.options('z');
-          },
-          invert: true,
-          colors: ['#8b0000', '#ff0000', '#ffa500', '#fefe20', '#00e700']
-        },
-        series: [
-          {
-            id: 'bubbleSer',
-            name: 'Capitals',
-            type: 'marker',
-            opacity: 0.6,
-            defaultPoint_marker: { type: 'material/maps/place', size: 20, offset: '1,-10' },
-            points: capitalNames.map(function(n) {
-              var mapId = 'UsCapitals.' + n;
-              return { map: mapId, z: Math.random() * 1000 };
-            })
-          }
-        ]
-      });
-    </script>
-  </body>
+    // This sample uses 3rd party proj4 component
+    // that makes it possible to set coordinates
+    // for the points and labels on the map and
+    // required for custom projections and grid labels formatting.
+    // See https://docs.anychart.com/Maps/Map_Projections
 
+    // create the dataset of points that are defined by latitude and longtitude values
+  var dataSet_lat_long = [
+{lat: -25.75, long: 122.18},
+{lat: -18.50, long: 135.24},
+{lat: -23.12, long: 148.62},
+{lat: -17.89, long: 145.09},
+{lat: -33.28, long: 135.58},
+{lat: -31.21, long: 116.44},
+{lat: -32.26, long: 151.44},
+{lat: -25.63, long: 152.37}
+    ];
+  
+  var map = anychart.map();
+  map.geoData(anychart.maps.australia);
+
+    // Creates the marker series
+  var series_lat_long = map.marker(dataSet_lat_long);
+  series_lat_long.tooltip({title: false, separator: false});
+
+  map.title("Marker series on a map");
+
+  map.container("container");
+  map.draw();
+});
