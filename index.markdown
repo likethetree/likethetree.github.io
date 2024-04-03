@@ -7,7 +7,7 @@ title: Home
 nav_order: 1
 ---
 
-<img width="1008" height="756" src="/images/dcp profile photo.jpeg">
+<img src="/images/dcp profile photo.jpeg">
 
 Hello! My name is Acacia and I really love diaries and Canadian history! When I was in middle school I found my first "Dear Canada" book in my school library, and over a decade later, I still absolutely adore them. These books helped me develop my passion for learning and teaching history! 
 
