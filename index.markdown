@@ -7,6 +7,10 @@ title: Home
 nav_order: 1
 ---
 
-<img style="float: left; padding-right: 20px" src="/images/profilepic.png">
+<img width="1008" height="756" src="/images/dcp profile photo.jpeg">
 
-Welcome to my website. I am Johny 5, you may remember me from the 1986 film "Short Circuit". You can find more information on this movie following this [link](https://www.youtube.com/watch?v=9rlI3Xg9g_A)
+Hello! My name is Acacia and I really love diaries and Canadian history! When I was in middle school I found my first "Dear Canada" book in my school library, and over a decade later, I still absolutely adore them. These books helped me develop my passion for learning and teaching history! 
+
+I am currently pursuing my Master's degree in Education in Museums and Heritage at UCC in Cork. As part of one of my assignments, I had the opportunity to craft a digital resource employing the skills I've acquired in class. This is mine!
+
+The aim of this project is to develop a website dedicated to cataloging a reference list of keywords extracted from the Dear Canada books. These terms may be unfamiliar to readers due to their association with historical items and concepts that are no longer prevalent today, or simply because they are not commonly used in the reader's region. I utilized a text-encoding web-program named Leaf-Writer to annotate all potentially perplexing terms within the text. Subsequently, I linked each of these annotations to my comprehensive reference list, ensuring accessibility and clarity for all readers.Ultimately, my objective with this project is to encode all 33 books in the Dear Canada series, furnishing them with links to this reference list. This will facilitate effortless access to unfamiliar terms, thereby aiding individuals in expanding their knowledge and understanding.
