@@ -17,12 +17,34 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+<style>
+ a:link {
+  color: mediumSeaGreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+  a:visited {
+  color: darkSeaGreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: darkSeaGreen;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style> 
 
 title: dearcanadaproject
 email: acaciamcclay@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Digital Humanities project of Acacia McClay.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/dearcanadaproject" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  likethetree
 
