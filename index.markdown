@@ -6,7 +6,28 @@ layout: page
 title: Home
 nav_order: 1
 ---
-
+<style>
+ a:link {
+  color: mediumSeaGreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+  a:visited {
+  color: darkSeaGreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: darkSeaGreen;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style> 
 <img src="/images/dcp profile photo.jpeg">
 
 Hello! My name is Acacia and I really love diaries and Canadian history! When I was in middle school I found my first "Dear Canada" book in my school library and, over a decade later, I still absolutely adore them. These books developed my passion for learning and teaching history! 
