@@ -2,7 +2,7 @@
 layout: page
 title: Timeline
 nav_order: 6
-permalink: /media/
+permalink: /timeline/
 ---
 
   <head>
