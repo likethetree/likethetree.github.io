@@ -19,6 +19,9 @@ permalink: /media/
         dataTable.addColumn({ type: 'date', id: 'End' });
         dataTable.addRows([
           [ 'A Prairie as Wide as the Sea', new Date(1926, 5, 1), new Date(1927, 4, 20) ]]);
+          var options = {
+      colors: ['#edb800'],
+    };
 
    chart.draw(dataTable);
       }
