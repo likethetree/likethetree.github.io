@@ -21,11 +21,11 @@ permalink: /media/
     dataTable.addColumn({ type: 'date', id: 'Start' });
     dataTable.addColumn({ type: 'date', id: 'End' });
     dataTable.addRows([
-      [ 'Diary', 'A Prairie as Wide as the Sea', new Date(1789, 3, 30), new Date(1797, 2, 4)]]);
+      [ 'Diary', 'A Prairie as Wide as the Sea', new Date(1926, 5, 1), new Date(1927, 4, 18)]]);
 
     var options = {
       timeline: { groupByRowLabel: false, 
-                  colorByRowLabel: true,  
+                  //colorByRowLabel: true,  
                   colors: ['#cbb69d', '#603913', '#c69c6e']}
     };
 
