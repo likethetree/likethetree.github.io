@@ -27,7 +27,7 @@ permalink: /media/
       timeline: { groupByRowLabel: false, colorByRowLabel: true}
     };
     var options = {
-      colors: ['#cbb69d', '#603913', '#c69c6e'],
+      colors: ['#edb800'],
     };
 
     chart.draw(dataTable, options);
