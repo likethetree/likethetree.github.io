@@ -18,7 +18,7 @@ nav_order: 2
   text-decoration: none;
 }
 a:hover {
-  color: mediumSageGreen;
+  color: mediumSeaGreen;
   background-color: transparent;
   text-decoration: underline;
 }
