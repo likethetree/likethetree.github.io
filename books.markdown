@@ -17,7 +17,7 @@ permalink: /books/
     text-decoration: none;
   }
   a:hover {
-    color: mediumSageGreen;
+    color: mediumSeaGreen;
     background-color: transparent;
     text-decoration: underline;
   }
