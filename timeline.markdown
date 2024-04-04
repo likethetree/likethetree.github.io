@@ -24,7 +24,9 @@ permalink: /media/
       [ 'Diary', 'A Prairie as Wide as the Sea', new Date(1789, 3, 30), new Date(1797, 2, 4)]]);
 
     var options = {
-      timeline: { groupByRowLabel: false, colorByRowLabel: true,  colors: ['#cbb69d', '#603913', '#c69c6e']}
+      timeline: { groupByRowLabel: false, 
+                  colorByRowLabel: true,  
+                  colors: ['#cbb69d', '#603913', '#c69c6e']}
     };
 
     chart.draw(dataTable, options);
