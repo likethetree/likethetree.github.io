@@ -4,7 +4,7 @@
 
 layout: page
 title: About Me
-nav_order: 1
+nav_order: 2
 ---
 <style>
  a:link {
