@@ -1,7 +1,4 @@
 ---
-# The homepage has been modified to show static text instead of posts.
-# To return to the original homepage change "layout: home" and remove all other content.
-
 layout: page
 title: About Me
 nav_order: 2
@@ -29,7 +26,7 @@ a:active {
   text-decoration: underline;
 }
 </style> 
-<img src="/images/dcp profile photo.jpeg">
+<img src="/images/A 21st Century Woman.jpg"> 
 
 Hello! My name is Acacia and I really love diaries and Canadian history! When I was in middle school I found my first "Dear Canada" book in my school library and, over a decade later, I still absolutely adore them. These books helped develop my passion for learning and teaching history! 
 
