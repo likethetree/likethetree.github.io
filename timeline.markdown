@@ -40,3 +40,5 @@ permalink: /media/
     <div id="timeline" style="height: 180px;"></div>
   </body>
 
+  <p>More coming soon...</p>
+
