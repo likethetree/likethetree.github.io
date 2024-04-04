@@ -35,7 +35,7 @@ permalink: /books/
   
 <h4>Books I've Worked On</h4>
 
-<p><a href="https://www.scholastic.ca/dearcanada/books/prairie.htm">A Prairie as Wide as the Sea</a>(2001)</p>
+<p><a href="https://www.scholastic.ca/dearcanada/books/prairie.htm">A Prairie as Wide as the Sea</a> (2001)</p>
 
 </body>
 
