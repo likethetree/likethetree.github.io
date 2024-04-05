@@ -6,9 +6,31 @@ layout: home
 title: Home
 nav_order: 1
 ---
+<style>
+ a:link {
+  color: mediumSeaGreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+  a:visited {
+  color: darkSeaGreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: darkSeaGreen;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style> 
 <img src="/images/Twenty-First Century Woman.jpg"> 
 
-<p>February 14th, 2024</p>
+<h3>February 14th, 2024</h3>
 
 <p>Happy Valentine’s Day!</p>
 
@@ -16,8 +38,20 @@ nav_order: 1
 
 <p>In class we’re learning about various ways to do computational analysis and data visualisation. Most of the examples we’ve looked at involve fictional books and now I’m wondering what I could do with the Dear Canada books. First I’ll need digital copies of all of them. I have all the physical books but unfortunately they are at home in Calgary. Dad can probably help me with digital copies, I’ll ask him. </p>
 
-<p>Later</p>
+<h3>Later</h3>
 
 <p>Success. I have all the epubs and I converted them all to plain-text with a <a href="https://pypi.org/project/epub2txt/">python script</a> dad found. Now I can use them for pretty much anything. Cool!</p>
 
+<h3>March 6th, 2024</h3>
 
+<p>We learned about xml text-encoding and the Data-Sitters Club a while ago and I think I wanna try something similar. Basically, what they’ve done, is gone through the Baby-Sitters Club series and done computational-text-analysis to pull data from the stories — pretty cool stuff. I wonder if it’s possible to do the same with the Dear Canada books. It would be so neat to do some sort of computational analysis on them and figure out a way to visualise and map them out.</p>
+
+<p>Since I now have all the books as plain-text files, it shouldn’t be that complicated, right?</p>
+
+<h3>March 20th, 2024</h3>
+
+<p>It is, perhaps, more complicated than I thought but I’m learning as I go! I don’t think I’ll be able to do what I want with all the books within the time I have left but I can definitely start with one. I think “A Prairie as Wide as the Sea” may be one of the very first Dear Canada books I read. It is at least the one I am most familiar with as it is set in the same general location and time period as the museum I used to work at. Just prairie things.</p>
+
+<p>I have a slightly different plan now. I would like to go through the books to tag all the dates, locations, and keywords. With the dates I’ll be able to plot the books onto a timeline. With the locations I’ll be able to map them out, and with the keywords I can create a reference list with definitions that offer more context.</p>
+
+<p>Based on what we learned in class and what I’ve been reading so far about text encoding I’ll want to use XML and there was a web-program we looked at in class called Leaf-Writer that should simplify the tagging.</p> 
