@@ -90,7 +90,7 @@ a:active {
 
 <h3>March 24th, 2024</h3>
 
-<p>I've been playing around with the github website we built in class a couple weeks ago. I think I'll use that as the source for my reference list. Now time to learn how to build something more comprehensive for this project. <a href=https://www.w3schools.com/html/default.asp">W3Schools</a> has a lot of tutorials that were very helpful.</p>
+<p>I've been playing around with the github website we built in class a couple weeks ago. I think I'll use that as the source for my reference list. Now time to learn how to build something more comprehensive for this project. <a href="https://www.w3schools.com/html/default.asp">W3Schools</a> has a lot of tutorials that were very helpful.</p>
 
 <p>As I go through the text and add more tags, I'm thinking about how I want to format a reference list. It should have an index and photos to make it easier to navigate. Also, these books are technically meant for kids so I will need to make all the definitions accessible and understandale for them.</p>
 
