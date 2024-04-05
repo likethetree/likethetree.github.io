@@ -33,6 +33,8 @@ a:active {
 
 <p>I utilized a text-encoding web-program named <a href="https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> to annotate all keywords, dates, and locations within the text. Subsequently, I linked each of the keywords to a comprehensive reference list, ensuring accessibility and clarity for all readers. Ultimately, my objective with this project is to encode all 33 books in the Dear Canada series, furnishing them with links to the <a href="https://likethetree.github.io/reference/">reference list</a>. This will facilitate effortless access to unfamiliar terms, thereby aiding individuals in expanding their knowledge and understanding.</p>
 
+<p>XML and other text encoding languages play a crucial role in enhancing textual information by leveraging the way computers read and store data. While dealing with a vast amount of physical text poses significant challenges, digital tools offer numerous possibilities for textual analysis and manipulation. With these tools, intricate tasks that were once daunting become more manageable, opening up new avenues for exploring and understanding text on a deeper level. XML files can also easily be converted into spreadsheets using programs like Excel or other similar software. This conversion process facilitates further exploration and analysis of the data contained within the XML files. By converting XML data into a spreadsheet format, users can manipulate and analyze the information more intuitively, allowing for deeper insights and uncovering patterns that might not be immediately apparent from the raw XML data. This flexibility enhances the usability and accessibility of the data, making it easier to extract valuable insights and information.</p>
+
 <img src="/images/Twenty-First Century Woman.jpg"> 
 
 <h3>February 14th, 2024</h3>
@@ -81,9 +83,19 @@ a:active {
 
 <h3>March 24th, 2024</h3>
 
-<p></p>
+<p>I've been playing around with the github website we built in class a couple weeks ago. I think I'll use that as the source for my reference list. Now time to learn how to build something more comprehensive for this project. <a href=https://www.w3schools.com/html/default.asp>W3Schools</a> has a lot of tutorials that were very helpful.</p>
+
+<p>As I go through the text and add more tags, I'm thinking about how I want to format a reference list. It should have an index and photos to make it easier to navigate. Also, these books are technically meant for kids so I will need to make all the definitions accessible and understandale for them.</p>
+
+<h3>March 28th, 2024</h3>
+
+<p>My <a href="https://likethetree.github.io/reference/">reference list</a> is coming along well! By following the <a href=https://www.w3schools.com/html/default.asp>W3Schools</a> tutorials, I've been able to curate and format a reference list. I've just been pulling photos from google, and explanations and definitions from wikipedia which I feed into chatgpt to reword them for children. I try to find photos of items from the 20s since "A Prairie as Wide as the Sea" is set in 1926. I then plug that into the github website builder with some HTML tags and it's starting to look pretty good!</p>
+
+<p>I finished up with the tagging in <a href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> and went back to replace some of the reference links with links to my new website. I'll still use some of the Wikidata links for some of the more common and still modernly used terms.</p>
 
 <h3>Bibliography</h3>
 
 <p>Fitzpatrick, Kathleen. “The Humanities, Done Digitally.” Debates in the Digital Humanities, 2012. https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/65e208fc-a5e6-479f-9a47-d51cd9c35e84#ch02.</p>  
+
+<p>Schriebman, Susan. “Digital Scholarly Editing” | Literary Studies in the Digital Age.” MLACommons, 2013. https://dlsanthology.mla.hcommons.org/digital-scholarly-editing/.</p>
 
