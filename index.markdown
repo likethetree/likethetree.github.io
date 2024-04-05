@@ -29,6 +29,10 @@ a:active {
 }
 </style> 
 
+<img src="/images/Twenty-First Century Woman.jpg"> 
+
+<h3>Preface</h3>
+
 <p>This project has three primary objectives. Firstly, it aims to establish a comprehensive reference index dedicated to archiving historical or less common terminology found within the texts. These terms may be unfamiliar to readers due to their historical contexts or regional disparities in language usage. Secondly, the project endeavours to meticulously map out all the locations referenced in the texts (mapping hopefully coming soon). Thirdly, it seeks to construct a dynamic timeline encompassing the events depicted in the books. To accomplish these goals, I employed a range of digital humanities methodologies, spanning from XML text encoding to HTML website design.</p>
 
 <p>I utilized a text-encoding web-program named <a href="https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> to annotate all keywords, dates, and locations within the text. Subsequently, I linked each of the keywords to a comprehensive reference list, ensuring accessibility and clarity for all readers. Ultimately, my objective with this project is to encode all 33 books in the Dear Canada series, furnishing them with links to the <a href="https://likethetree.github.io/reference/">reference list</a>. This will facilitate effortless access to unfamiliar terms, thereby aiding individuals in expanding their knowledge and understanding.</p>
@@ -37,7 +41,6 @@ a:active {
 
 <p>While this project may not be particularly serious, the methodologies employed hold potential for broader academic endeavors involving extensive text analysis. Indeed, numerous non-fiction diaries have already undergone similar encoding processes to extract additional insights from their contents. Thus, while the current project may be casual in nature, its methodologies offer valuable pathways for deeper exploration in academic contexts, particularly with large textual datasets such as non-fiction diaries.</p>
 
-<img src="/images/Twenty-First Century Woman.jpg"> 
 
 <h3>February 14th, 2024</h3>
 
