@@ -47,7 +47,9 @@ a:active {
 
 <h3>Later</h3>
 
-<p>Success. I have all the epubs and I converted them all to plain-text with a <a href="https://pypi.org/project/epub2txt/">python script</a> dad found. Now I can use them for pretty much anything. Cool!</p>
+<p>Success!</p>
+
+<p>I have all the epubs and I converted them all to plain-text with a <a href="https://pypi.org/project/epub2txt/">python script</a> dad found. Now I can use them for pretty much anything. Cool!</p>
 
 <h3>March 6th, 2024</h3>
 
@@ -89,9 +91,9 @@ a:active {
 
 <h3>March 28th, 2024</h3>
 
-<p>My <a href="https://likethetree.github.io/reference/">reference list</a> is coming along well! By following the <a href=https://www.w3schools.com/html/default.asp>W3Schools</a> tutorials, I've been able to curate and format a reference list. I've just been pulling photos from google, and explanations and definitions from wikipedia which I feed into chatgpt to reword them for children. I try to find photos of items from the 20s since "A Prairie as Wide as the Sea" is set in 1926. I then plug that into the github website builder with some HTML tags and it's starting to look pretty good!</p>
+<p>My <a href="https://likethetree.github.io/reference/">reference list</a> is coming along well! By following the <a href="https://www.w3schools.com/html/default.asp">W3Schools</a> tutorials, I've been able to curate and format a reference list. I've just been pulling photos from google, and explanations and definitions from wikipedia which I feed into chatgpt to reword them for children. I try to find photos of items from the 20s since "A Prairie as Wide as the Sea" is set in 1926. I then plug that into the github website builder with some HTML tags and it's starting to look pretty good!</p>
 
-<p>I finished up with the tagging in <a href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> and went back to replace some of the reference links with links to my new website. I'll still use some of the Wikidata links for some of the more common and still modernly used terms.</p>
+<p>I finished up with the tagging in <a href="https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> and went back to replace some of the reference links with links to my new website. I'll still use some of the Wikidata links for some of the more common and still modernly used terms.</p>
 
 <h3>Bibliography</h3>
 
