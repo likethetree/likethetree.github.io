@@ -35,6 +35,8 @@ a:active {
 
 <p>XML and other text encoding languages play a crucial role in enhancing textual information by leveraging the way computers read and store data. While dealing with a vast amount of physical text poses significant challenges, digital tools offer numerous possibilities for textual analysis and manipulation. With these tools, intricate tasks that were once daunting become more manageable, opening up new avenues for exploring and understanding text on a deeper level. XML files can also easily be converted into spreadsheets using programs like Excel or other similar software. This conversion process facilitates further exploration and analysis of the data contained within the XML files. By converting XML data into a spreadsheet format, users can manipulate and analyze the information more intuitively, allowing for deeper insights and uncovering patterns that might not be immediately apparent from the raw XML data. This flexibility enhances the usability and accessibility of the data, making it easier to extract valuable insights and information.</p>
 
+<p>While this project may not be particularly serious, the methodologies employed hold potential for broader academic endeavors involving extensive text analysis. Indeed, numerous non-fiction diaries have already undergone similar encoding processes to extract additional insights from their contents. Thus, while the current project may be casual in nature, its methodologies offer valuable pathways for deeper exploration in academic contexts, particularly with large textual datasets such as non-fiction diaries.</p>
+
 <img src="/images/Twenty-First Century Woman.jpg"> 
 
 <h3>February 14th, 2024</h3>
@@ -95,9 +97,41 @@ a:active {
 
 <p>I finished up with the tagging in <a href="https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> and went back to replace some of the reference links with links to my new website. I'll still use some of the Wikidata links for some of the more common and still modernly used terms.</p>
 
+<h3>March 29th, 2024</h3>
+
+<p>I've been playing around in github all day trying to build this webite. I'm learning a lot and it's very interesting but at times it is also incredibly frusterating. I will say though, there is absolutely no feeling better than finally getting a bit of code to work after tinkering with it for several hours. HTML is really cool!</p>
+
+<h3>April 1st, 2024</h3>
+
+<p>Maybe I'm the April Fool...</p>
+
+<p>I seem to have run into some speedbumps with converting my xml into a spreadsheet. All the data is in pockets but I can't seem to open them all at once... Perhaps it is time to consult dad again. He can usually at least point me in the right direction for figuring these things out.</p>
+
+<h3>Later</h3>
+
+<p>Dad did help, I needed to open a power query in Excel (whatever that does). That allows me to open the pockets but now I need to figure out how to just get the dates, locations, and keywords I tagged. Maybe that's a problem for tomorrow.</p>
+
+<h3>April 2nd, 2024</h3>
+
+<p>Once again, I have no idea if there was a better way to do this but I ended up just copying the contents from each pocket I wanted into a new excel sheet. So now I have a datasheet with all the dates, all the locations, all the keywords, and all the reference links for the keywords. I'll make those publicly available on the website so others can play with them if they want to.</p>
+
+<h3>April 3rd, 2024</h3>
+
+<p>More work on the webite today. I'm quite happy with how its turning out!</p>
+
+<h3>April 4th, 2024</h3>
+
+<p>This project is due tomorrow. I have had to forgo trying to map out the locations for now because there is no time but I at least have the data for it. I was able to create a timeline with <a href="https://developers.google.com/chart">Google Charts</a> and a bit of JavaScript. Unfortunately the timeline looks a bit sad right now because I've only done one book so far but hopefully I'll add more so we can see the history of Canada in the form of Dear Canada books. How cool with that look?</p> 
+
+<p>When I was reading these books as a kid I was always looking up words I didn't know. I built this website for that kid, and all the other curious kids who love reading and learning about history</p>
+
+<h3>April 5th, 2024</h3>
+
+<p>Nearly done! Just trying to put the finishing touches on now!</p>
+
 <h3>Bibliography</h3>
 
-<p>Fitzpatrick, Kathleen. “The Humanities, Done Digitally.” Debates in the Digital Humanities, 2012. https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/65e208fc-a5e6-479f-9a47-d51cd9c35e84#ch02.</p>  
+<p>Fitzpatrick, Kathleen. “The Humanities, Done Digitally.” Debates in the Digital Humanities, 2012. <a href="https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/65e208fc-a5e6-479f-9a47-d51cd9c35e84#ch02.">https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/65e208fc-a5e6-479f-9a47-d51cd9c35e84#ch02</a>.</p>  
 
-<p>Schriebman, Susan. “Digital Scholarly Editing” | Literary Studies in the Digital Age.” MLACommons, 2013. https://dlsanthology.mla.hcommons.org/digital-scholarly-editing/.</p>
+<p>Schriebman, Susan. “Digital Scholarly Editing” | Literary Studies in the Digital Age.” MLACommons, 2013. <a href="https://dlsanthology.mla.hcommons.org/digital-scholarly-editing/">https://dlsanthology.mla.hcommons.org/digital-scholarly-editing/</a>.</p>
 
