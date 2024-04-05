@@ -56,4 +56,4 @@ a:active {
 
 <p>Based on what we learned in class and what I’ve been reading so far about text encoding I’ll want to use XML and there was a web-program we looked at in class called <a href="https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> that should simplify the tagging.</p> 
 
-<p>XML will allow me to add more data to the texts. I should be able to pull all that data and use it for further analysis. I will need to follow the <a href="https://tei-c.org/">Text Encoding Initiative Guidelines</a> in order to open any XML files in <a href="https://leaf-writer.leaf-vre.org/">Leaf-Writer</a>. </p>
+<p>XML will allow me to add more data to the texts. I should be able to pull all that data and use it for further analysis. I will need to follow the <a href="https://tei-c.org/">Text Encoding Initiative Guidelines</a>(TEI) in order to open any XML files in <a href="https://leaf-writer.leaf-vre.org/">Leaf-Writer</a>. </p>
