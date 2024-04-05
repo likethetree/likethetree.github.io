@@ -71,4 +71,4 @@ a:active {
 
 <p>Let’s just all remember that I am a beginner here.</p>
 
-<p>By the end of the day, after several painful hours of troubleshooting, I had finally, successfully managed to open my XML of a Prairie as Wide as the Sea in <a href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a>.</p>
+<p>By the end of the day, after several painful hours of troubleshooting, I have finally, successfully managed to open my XML of a Prairie as Wide as the Sea in <a href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a>.</p>
