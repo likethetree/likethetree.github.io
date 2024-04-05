@@ -124,7 +124,7 @@ a:active {
 
 <h3>April 4th, 2024</h3>
 
-<p>This project is due tomorrow. I have had to forgo trying to map out the locations for now because there is no time but I at least have the data for it. I was able to create a timeline with <a href="https://developers.google.com/chart">Google Charts</a> and a bit of JavaScript. Unfortunately the timeline looks a bit sad right now because I've only done one book so far but hopefully I'll add more so we can see the history of Canada in the form of Dear Canada books. How cool with that look?</p> 
+<p>This project is due tomorrow. I have had to forgo trying to map out the locations for now because there is no time but I at least have the data for it. I was able to create a timeline with <a href="https://developers.google.com/chart">Google Charts</a> and a bit of JavaScript. Unfortunately the timeline looks a bit sad right now because I've only done one book so far but hopefully I'll add more so we can see the history of Canada in the form of Dear Canada books. How cool will that look?</p> 
 
 <p>When I was reading these books as a kid I was always looking up words I didn't know. I built this website for that kid, and all the other curious kids who love reading and learning about history</p>
 
