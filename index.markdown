@@ -54,4 +54,6 @@ a:active {
 
 <p>I have a slightly different plan now. I would like to go through the books to tag all the dates, locations, and keywords. With the dates I’ll be able to plot the books onto a timeline. With the locations I’ll be able to map them out, and with the keywords I can create a reference list with definitions that offer more context.</p>
 
-<p>Based on what we learned in class and what I’ve been reading so far about text encoding I’ll want to use XML and there was a web-program we looked at in class called Leaf-Writer that should simplify the tagging.</p> 
+<p>Based on what we learned in class and what I’ve been reading so far about text encoding I’ll want to use XML and there was a web-program we looked at in class called <a href="https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> that should simplify the tagging.</p> 
+
+<p>XML will allow me to add more data to the texts. I should be able to pull all that data and use it for further analysis. I will need to follow the <a href="https://tei-c.org/">Text Encoding Initiative Guidelines</a> in order to open any XML files in <a href="https://leaf-writer.leaf-vre.org/">Leaf-Writer</a>. </p>
