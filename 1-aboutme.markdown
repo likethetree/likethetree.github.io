@@ -26,7 +26,7 @@ a:active {
   text-decoration: underline;
 }
 </style> 
-<img src="/images/Twenty-First Century Woman.jpg"> 
+<img src="/images/profile pic.jpg"> 
 
 Hello! My name is Acacia and I really love diaries and Canadian history! When I was in middle school I found my first "Dear Canada" book in my school library and, over a decade later, I still absolutely adore them. These books helped develop my passion for learning and teaching history! 
 
