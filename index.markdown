@@ -35,4 +35,14 @@ nav_order: 1
 
 <p>Based on what we learned in class and what I’ve been reading so far about text encoding I’ll want to use XML and there was a web-program we looked at in class called <a href="https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> that should simplify the tagging.</p> 
 
-<p>XML will allow me to add more data to the texts. I should be able to pull all that data and use it for further analysis. I will need to follow the <a href="https://tei-c.org/">Text Encoding Initiative Guidelines</a>(TEI) in order to open any XML files in <a href="https://leaf-writer.leaf-vre.org/">Leaf-Writer</a>. </p>
+<p>XML will allow me to add more data to the texts. I should be able to pull all that data and use it for further analysis. I will need to follow the <a href="https://tei-c.org/">Text Encoding Initiative Guidelines</a>(TEI) in order to open any XML files in <a href="https://leaf-writer.leaf-vre.org/">Leaf-Writer</a>.</p>
+
+<h3>March 22nd, 2024</h3>
+
+<p>So after a fairly frustrating couple of days, I have finally properly formatted my XML to open in <a href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> There was likely a better way to do this but there is something fun about trial and error.</p>
+
+<p>I just copied a TEI header from the example we used in class and plugged in the information for my project. The next part to figure out was how best to format the Plain-Text into something more organised. I opted to divide the book into diary entries and then paragraphs. This was fairly straightforward, although, once again there was likely a better way than manually copying and pasting each paragraph into its own tag…</p>
+
+<p>Let’s just all remember that I am a beginner here.</p>
+
+<p>By the end of the day, after several painful hours of troubleshooting, I had finally, successfully managed to open my XML of a Prairie as Wide as the Sea in <a href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a>.</p>
