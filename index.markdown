@@ -6,28 +6,7 @@ layout: home
 title: Home
 nav_order: 1
 ---
-<style>
- a:link {
-  color: mediumSeaGreen;
-  background-color: transparent;
-  text-decoration: none;
-}
-  a:visited {
-  color: darkSeaGreen;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: darkSeaGreen;
-  background-color: transparent;
-  text-decoration: underline;
-}
-a:active {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-</style> 
+
 <img src="/images/Twenty-First Century Woman.jpg"> 
 
 <h3>February 14th, 2024</h3>
