@@ -137,5 +137,7 @@ a:active {
 
 <p>Fitzpatrick, Kathleen. “The Humanities, Done Digitally.” Debates in the Digital Humanities, 2012. <a href="https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/65e208fc-a5e6-479f-9a47-d51cd9c35e84#ch02.">https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/65e208fc-a5e6-479f-9a47-d51cd9c35e84#ch02</a>.</p>  
 
+<p>Ramsay, Stephen. "On Building." 2018.</p>
+
 <p>Schriebman, Susan. “Digital Scholarly Editing” | Literary Studies in the Digital Age.” MLACommons, 2013. <a href="https://dlsanthology.mla.hcommons.org/digital-scholarly-editing/">https://dlsanthology.mla.hcommons.org/digital-scholarly-editing/</a>.</p>
 
