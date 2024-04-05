@@ -102,7 +102,7 @@ a:active {
 
 <h3>March 29th, 2024</h3>
 
-<p>I've been playing around in github all day trying to build this webite. I'm learning a lot and it's very interesting but at times it is also incredibly frusterating. I will say though, there is absolutely no feeling better than finally getting a bit of code to work after tinkering with it for several hours. HTML is really cool!</p>
+<p>I've been playing around in github all day trying to build this webite. I'm learning a lot and it's very interesting but at times it is also incredibly frustrating. I will say though, there is absolutely no feeling better than finally getting a bit of code to work after tinkering with it for several hours. HTML is really cool!</p>
 
 <h3>April 1st, 2024</h3>
 
