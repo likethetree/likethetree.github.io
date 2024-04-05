@@ -6,6 +6,29 @@ layout: home
 title: Home
 nav_order: 1
 ---
+<style>
+ a:link {
+  color: mediumSeaGreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+  a:visited {
+  color: darkSeaGreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: darkSeaGreen;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style> 
+
 <p>This project has three primary objectives. Firstly, it aims to establish a comprehensive reference index dedicated to archiving historical or less common terminology found within the texts. These terms may be unfamiliar to readers due to their historical contexts or regional disparities in language usage. Secondly, the project endeavours to meticulously map out all the locations referenced in the texts (mapping hopefully coming soon). Thirdly, it seeks to construct a dynamic timeline encompassing the events depicted in the books. To accomplish these goals, I employed a range of digital humanities methodologies, spanning from XML text encoding to HTML website design.</p>
 
 <p>I utilized a text-encoding web-program named Leaf-Writer to annotate all potentially perplexing terms within the text. Subsequently, I linked each of these annotations to my comprehensive reference list, ensuring accessibility and clarity for all readers. Ultimately, my objective with this project is to encode all 33 books in the Dear Canada series, furnishing them with links to this reference list. This will facilitate effortless access to unfamiliar terms, thereby aiding individuals in expanding their knowledge and understanding.</p>
