@@ -80,17 +80,17 @@ a:active {
 
 <p>Let’s just all remember that I am a beginner here.</p>
 
-<p>By the end of the day, after several painful hours of troubleshooting, I have finally, successfully managed to open my XML of a Prairie as Wide as the Sea in <a href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a>.</p>
+<p>By the end of the day, after several painful hours of troubleshooting, I have finally, successfully managed to open my XML of a Prairie as Wide as the Sea in <a href="href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a>.</p>
 
 <h3>March 23rd, 2024</h3>
 
-<p>I guess tagging in <a href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> is pretty fun. Their tools make it super easy to add all the dates, locations, and keywords. All I have to do is reread a good book and tag all the important bits I want to be able to use. <a href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> also has access to several databases with contextual information.</p>
+<p>I guess tagging in <a href="href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> is pretty fun. Their tools make it super easy to add all the dates, locations, and keywords. All I have to do is reread a good book and tag all the important bits I want to be able to use. <a href="href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> also has access to several databases with contextual information.</p>
 
-<p>Now I kind of want to see if I can make my own database and link to definitions of some of the more specific keywords there rather than using Wikidata, VIAF, or DBPEDIA. <a href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> allows users to add their own reference links. Guess I am now building a website…</p> 
+<p>Now I kind of want to see if I can make my own database and link to definitions of some of the more specific keywords there rather than using Wikidata, VIAF, or DBPEDIA. <a href="href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> allows users to add their own reference links. Guess I am now building a website…</p> 
 
 <h3>March 24th, 2024</h3>
 
-<p>I've been playing around with the github website we built in class a couple weeks ago. I think I'll use that as the source for my reference list. Now time to learn how to build something more comprehensive for this project. <a href=https://www.w3schools.com/html/default.asp>W3Schools</a> has a lot of tutorials that were very helpful.</p>
+<p>I've been playing around with the github website we built in class a couple weeks ago. I think I'll use that as the source for my reference list. Now time to learn how to build something more comprehensive for this project. <a href=https://www.w3schools.com/html/default.asp">W3Schools</a> has a lot of tutorials that were very helpful.</p>
 
 <p>As I go through the text and add more tags, I'm thinking about how I want to format a reference list. It should have an index and photos to make it easier to navigate. Also, these books are technically meant for kids so I will need to make all the definitions accessible and understandale for them.</p>
 
