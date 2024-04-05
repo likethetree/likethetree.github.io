@@ -35,13 +35,12 @@ a:active {
 
 <p>This project has three primary objectives. Firstly, it aims to establish a comprehensive reference index dedicated to archiving historical or less common terminology found within the texts. These terms may be unfamiliar to readers due to their historical contexts or regional disparities in language usage. Secondly, the project endeavours to meticulously map out all the locations referenced in the texts (mapping hopefully coming soon). Thirdly, it seeks to construct a dynamic timeline encompassing the events depicted in the books. To accomplish these goals, I employed a range of digital humanities methodologies, spanning from XML text encoding to HTML website design.</p>
 
-<p>Stephen Ramsay (2018) highlights the exhilarating potential of advancements in digital humanities, particularly in fostering creativity. These technologies offer fresh methods for interacting with, presenting, and generating data in the humanities, transforming the experience of humanities work. The act of creation within digital humanities is profoundly engaging as new avenues for textual analysis, map making, data visualization, and more are developed. Moreover, the creative process itself holds equal importance alongside the end result. Through my work on this project not only did I create a resource to further explore the Dear Canada series, I also learned a ton about text encoding, hmtl, xml, and many other incredibly valuable skills</p>
-
 <p>I utilized a text-encoding web-program named <a href="https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> to annotate all keywords, dates, and locations within the text. Subsequently, I linked each of the keywords to a comprehensive reference list, ensuring accessibility and clarity for all readers. Ultimately, my objective with this project is to encode all 33 books in the Dear Canada series, furnishing them with links to the <a href="https://likethetree.github.io/reference/">reference list</a>. This will facilitate effortless access to unfamiliar terms, thereby aiding individuals in expanding their knowledge and understanding.</p>
 
 <p>Furthermore, XML and other text encoding languages play a crucial role in enhancing textual information by capitalizing on the way computers read and store data. While grappling with a vast amount of physical text poses significant challenges, digital tools provide myriad possibilities for textual analysis and manipulation (Schriebman, 2013). With these tools, previously daunting tasks become more manageable, opening new avenues for exploring and understanding text at a deeper level. Additionally, XML files can easily be converted into spreadsheets using programs like Excel or similar software, enhancing the usability and accessibility of the data contained within (Schriebman, 2013). This conversion process facilitates further exploration and analysis, allowing users to manipulate and uncover insights that may not be immediately apparent from the raw XML data.
 <p>While this project may not be particularly serious, the methodologies employed hold potential for broader academic endeavors involving extensive text analysis. Indeed, numerous non-fiction diaries have already undergone similar encoding processes to extract additional insights from their contents. Thus, while the current project may be casual in nature, its methodologies offer valuable pathways for deeper exploration in academic contexts, particularly with large textual datasets such as non-fiction diaries.</p>
 
+<p>Stephen Ramsay (2018) highlights the exhilarating potential of advancements in digital humanities, particularly in fostering creativity. These technologies offer fresh methods for interacting with, presenting, and generating data in the humanities, transforming the experience of humanities work. The act of creation within digital humanities is profoundly engaging as new avenues for textual analysis, map making, data visualisation, and more are developed. Moreover, the creative process itself holds equal importance alongside the end result. Through my work on this project not only did I create a resource to further explore the Dear Canada series, I also learned a ton about text encoding, hmtl, xml, and many other incredibly valuable skills.</p>
 
 <h3>February 14th, 2024</h3>
 
@@ -121,7 +120,7 @@ a:active {
 
 <h3>April 3rd, 2024</h3>
 
-<p>More work on the webite today. I'm quite happy with how its turning out!</p>
+<p>More work on the website today. I'm quite happy with how its turning out!</p>
 
 <h3>April 4th, 2024</h3>
 
