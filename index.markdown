@@ -39,7 +39,7 @@ nav_order: 1
 
 <h3>March 22nd, 2024</h3>
 
-<p>So after a fairly frustrating couple of days, I have finally properly formatted my XML to open in <a href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a> There was likely a better way to do this but there is something fun about trial and error.</p>
+<p>So after a fairly frustrating couple of days, I have finally properly formatted my XML to open in <a href=“https://leaf-writer.leaf-vre.org/">Leaf-Writer</a>. There was likely a better way to do this but there is something fun about trial and error.</p>
 
 <p>I just copied a TEI header from the example we used in class and plugged in the information for my project. The next part to figure out was how best to format the Plain-Text into something more organised. I opted to divide the book into diary entries and then paragraphs. This was fairly straightforward, although, once again there was likely a better way than manually copying and pasting each paragraph into its own tag…</p>
 
