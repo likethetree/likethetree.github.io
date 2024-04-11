@@ -132,6 +132,12 @@ a:active {
 
 <p>Nearly done! Just trying to put the finishing touches on now!</p>
 
+<h3>April 11th, 2024</h3>
+
+<p>Mapping is hard. <a href="https://developers.google.com/chart/interactive/docs/gallery/geochart#full">Google Charts</a> has excellent resources but trying to get them to work for what I want is challenging. I can't seem to get England to show up on the map and I don't even know if it's possible to highlight whole country and the cities mentioned in the text on the same map...</p>
+
+<p>I got an API key from Google to I could use Geocoding with the city names the only problem is I am not sure how to use it properly. I have all the data, it's just the coding that isn't cooperating</p>
+
 <h3>Bibliography</h3>
 
 <p>Fitzpatrick, Kathleen. “The Humanities, Done Digitally.” Debates in the Digital Humanities, 2012. <a href="https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/65e208fc-a5e6-479f-9a47-d51cd9c35e84#ch02.">https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/65e208fc-a5e6-479f-9a47-d51cd9c35e84#ch02</a>.</p>  
