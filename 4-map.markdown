@@ -13,9 +13,9 @@ nav-order: 5
       google.charts.setOnLoadCallback(drawRegionsMap);
       function drawRegionsMap() {
         var data = google.visualization.arrayToDataTable([
-          ['Country'],
+          ['Country', 'Color'],
           ['Canada', '#edb800'],
-          ['England']
+          ['England', '#edb800']
         ]);
         var options = {
           colors:['#edb800',"#f9e7ac']
