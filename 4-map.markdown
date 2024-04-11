@@ -18,6 +18,7 @@ nav-order: 5
           ['England']
         ]);
         var options = {
+           colorAxis: {colors: ['#00853f', 'black', '#e31b23']},
         };
         var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
         chart.draw(data, options);
