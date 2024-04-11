@@ -9,7 +9,8 @@ nav-order: 5
     <script type="text/javascript">
       google.charts.load('current', {
         'packages':['geochart'],
-        'mapsApiKey': "AIzaSyBnhctFPZgzxpPKjdpIHvJYYjgIX7yaPTI"
+        'mapsApiKey': 'AIzaSyBnhctFPZgzxpPKjdpIHvJYYjgIX7yaPTI'
+"
       });
       google.charts.setOnLoadCallback(drawRegionsMap);
       function drawRegionsMap() {
