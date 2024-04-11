@@ -134,7 +134,7 @@ a:active {
 
 <h3>April 11th, 2024</h3>
 
-<p>Mapping is hard. <a href="https://developers.google.com/chart/interactive/docs/gallery/geochart#full">Google Charts</a> has excellent resources but trying to get them to work for what I want is challenging. I can't seem to get England to show up on the map and I don't even know if it's possible to highlight whole country and the cities mentioned in the text on the same map...</p>
+<p>Mapping is hard. <a href="https://developers.google.com/chart/interactive/docs/gallery/geochart#full">Google Charts</a> has excellent resources but trying to get them to work for what I want is challenging. I can't seem to get England to show up on the map and I don't even know if it's possible to highlight whole countires and the cities mentioned in the text on the same map...</p>
 
 <p>I got an API key from Google to I could use Geocoding with the city names the only problem is I am not sure how to use it properly. I have all the data, it's just the coding that isn't cooperating. Also, for some reason, I can't get England to show up on the map. I've tried multiple different names and it still doesn't work...</p>
 
