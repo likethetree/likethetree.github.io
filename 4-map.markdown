@@ -9,15 +9,14 @@ nav-order: 5
     <script type="text/javascript">
       google.charts.load('current', {
         'packages':['geochart'],
-        'mapsApiKey': 'AIzaSyBnhctFPZgzxpPKjdpIHvJYYjgIX7yaPTI'
 "
       });
       google.charts.setOnLoadCallback(drawRegionsMap);
       function drawRegionsMap() {
         var data = google.visualization.arrayToDataTable([
           ['Country'],
-          ['England'],
-          ['UK']
+          ['Canada'],
+          ['England']
         ]);
         var options = {};
         var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
