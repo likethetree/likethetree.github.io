@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Map
-permalink: /publications/
+permalink: /map/
 nav-order: 5
 ---
   <head>
