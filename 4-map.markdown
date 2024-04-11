@@ -17,7 +17,10 @@ nav-order: 5
           ['Canada'],
           ['England']
         ]);
-        var options = {colors:['red','#004411']};
+        var options = {
+          colors:['red','#004411']
+        
+        };
         var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
         chart.draw(data, options);
       }
