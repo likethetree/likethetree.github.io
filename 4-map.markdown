@@ -14,9 +14,8 @@ nav-order: 5
       function drawRegionsMap() {
         var data = google.visualization.arrayToDataTable([
           ['Country'],
-          ['Canada'],
+          ['Canada', '#edb800'],
           ['England']
-          ['Saskatchewan']
         ]);
         var options = {
           colors:['#edb800',"#f9e7ac']
