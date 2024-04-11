@@ -14,7 +14,7 @@ nav-order: 5
       function drawRegionsMap() {
         var data = google.visualization.arrayToDataTable([
           ['Country'],
-          ['England'],
+          ['United Kindgom'],
           ['Canada']
         ]);
         var options = {};
