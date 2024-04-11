@@ -18,7 +18,6 @@ nav-order: 5
           ['England']
         ]);
         var options = {
-          colors:['#edb800',"#f9e7ac']
         };
         var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
         chart.draw(data, options);
@@ -29,6 +28,6 @@ nav-order: 5
     <div id="regions_div" style="width: 900px; height: 500px;"></div>
   </body>
 
-<p>Coming soon, I'm still trying to figure this part out...</p>
+<p>More coming soon, I'm still trying to figure this part out...</p>
 
 <img src="/images/under construction.jpg"> 
